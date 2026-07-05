@@ -26,7 +26,7 @@ Durability: 20
 GoldCost: 5
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 37
 Pic: 317
 Resourse: (1)
@@ -52,7 +52,7 @@ Durability: 25
 GoldCost: 20
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 93
 Pic: 318
 Resourse: (1)
@@ -78,7 +78,7 @@ Durability: 30
 GoldCost: 70
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 145
 Pic: 319
 Resourse: (1)
@@ -104,7 +104,7 @@ Durability: 30
 GoldCost: 90
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 186
 Pic: 320
 Resourse: (1)
@@ -130,7 +130,7 @@ Durability: 40
 GoldCost: 10
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 35
 Pic: 291
 Resourse: (2)
@@ -160,7 +160,7 @@ Durability: 40
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 93
 Pic: 292
 Resourse: (2)
@@ -190,7 +190,7 @@ Durability: 60
 GoldCost: 80
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 145
 Pic: 293
 Resourse: (2)
@@ -220,7 +220,7 @@ Durability: 60
 GoldCost: 140
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 186
 Pic: 294
 Resourse: (2)
@@ -254,7 +254,7 @@ Durability: 40
 GoldCost: 15
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 2
 Pic: 341
 Resourse: (1)
@@ -276,7 +276,7 @@ Durability: 50
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 89
 Pic: 342
 Resourse: (1)
@@ -298,7 +298,7 @@ Durability: 50
 GoldCost: 90
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 141
 Pic: 343
 Resourse: (1)
@@ -320,7 +320,7 @@ Durability: 50
 GoldCost: 170
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 182
 Pic: 344
 Resourse: (1)
@@ -342,7 +342,7 @@ Durability: 40
 GoldCost: 20
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 2
 Pic: 0
 Resourse: (1)
@@ -364,7 +364,7 @@ Durability: 50
 GoldCost: 50
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 89
 Pic: 1
 Resourse: (1)
@@ -386,7 +386,7 @@ Durability: 60
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 141
 Pic: 2
 Resourse: (1)
@@ -408,7 +408,7 @@ Durability: 70
 GoldCost: 190
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 182
 Pic: 3
 Resourse: (1)
@@ -430,7 +430,7 @@ Durability: 30
 GoldCost: 10
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 1
 Pic: 12
 Resourse: (2)
@@ -452,7 +452,7 @@ Durability: 40
 GoldCost: 30
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 90
 Pic: 13
 Resourse: (1, 2)
@@ -474,7 +474,7 @@ Durability: 45
 GoldCost: 120
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 142
 Pic: 14
 Resourse: (1, 2)
@@ -500,7 +500,7 @@ Durability: 50
 GoldCost: 190
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 183
 Pic: 15
 Resourse: (1, 2)
@@ -526,7 +526,7 @@ Durability: 25
 GoldCost: 15
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 37
 Pic: 353
 Resourse: (2)
@@ -552,7 +552,7 @@ Durability: 30
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 89
 Pic: 354
 Resourse: (1)
@@ -578,7 +578,7 @@ Durability: 35
 GoldCost: 90
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 141
 Pic: 355
 Resourse: (1)
@@ -604,7 +604,7 @@ Durability: 40
 GoldCost: 250
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 182
 Pic: 356
 Resourse: (1)
@@ -630,7 +630,7 @@ Durability: 70
 GoldCost: 80
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 89
 Pic: 11
 Resourse: (1, 1)
@@ -652,7 +652,7 @@ Durability: 80
 GoldCost: 120
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 141
 Pic: 377
 Resourse: (1, 1)
@@ -674,7 +674,7 @@ Durability: 90
 GoldCost: 200
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 182
 Pic: 378
 Resourse: (1, 1)
@@ -696,7 +696,7 @@ Durability: 70
 GoldCost: 350
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 379
 Resourse: (1, 7)
@@ -722,7 +722,7 @@ Durability: 30
 GoldCost: 20
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 0
 Pic: 364
 Resourse: (2)
@@ -748,7 +748,7 @@ Durability: 40
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 90
 Pic: 365
 Resourse: (2)
@@ -774,7 +774,7 @@ Durability: 50
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 142
 Pic: 366
 Resourse: (2)
@@ -800,7 +800,7 @@ Durability: 60
 GoldCost: 170
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 183
 Pic: 367
 Resourse: (2)
@@ -826,7 +826,7 @@ Durability: 30
 GoldCost: 30
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 37
 Pic: 387
 Resourse: (1, 2)
@@ -856,7 +856,7 @@ Durability: 40
 GoldCost: 60
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 90
 Pic: 388
 Resourse: (1, 2)
@@ -886,7 +886,7 @@ Durability: 50
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 142
 Pic: 389
 Resourse: (1, 2)
@@ -916,7 +916,7 @@ Durability: 60
 GoldCost: 220
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 183
 Pic: 390
 Resourse: (1, 2)
@@ -946,7 +946,7 @@ Durability: 20
 GoldCost: 20
 GemCost: 1
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 35
 Pic: 253
 Resourse: (0)
@@ -976,7 +976,7 @@ Durability: 30
 GoldCost: 40
 GemCost: 2
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 93
 Pic: 254
 Resourse: (4)
@@ -1006,7 +1006,7 @@ Durability: 35
 GoldCost: 80
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 145
 Pic: 255
 Resourse: (4)
@@ -1036,7 +1036,7 @@ Durability: 35
 GoldCost: 160
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 186
 Pic: 256
 Resourse: (5)
@@ -1066,7 +1066,7 @@ Durability: 30
 GoldCost: 15
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 2
 Pic: 329
 Resourse: (1)
@@ -1084,7 +1084,7 @@ Durability: 30
 GoldCost: 10
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 1
 Pic: 328
 Resourse: (2)
@@ -1102,7 +1102,7 @@ Durability: 40
 GoldCost: 30
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 89
 Pic: 330
 Resourse: (1)
@@ -1124,7 +1124,7 @@ Durability: 50
 GoldCost: 60
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 141
 Pic: 331
 Resourse: (1, 2)
@@ -1150,7 +1150,7 @@ Durability: 60
 GoldCost: 130
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 182
 Pic: 332
 Resourse: (1, 2)
@@ -1176,7 +1176,7 @@ Durability: 15
 GoldCost: 10
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 1
 Pic: 264
 Resourse: (0)
@@ -1198,7 +1198,7 @@ Durability: 10
 GoldCost: 10
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 37
 Pic: 265
 Resourse: (0)
@@ -1224,7 +1224,7 @@ Durability: 15
 GoldCost: 20
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 90
 Pic: 266
 Resourse: (1)
@@ -1250,7 +1250,7 @@ Durability: 20
 GoldCost: 40
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 142
 Pic: 267
 Resourse: (1)
@@ -1276,7 +1276,7 @@ Durability: 30
 GoldCost: 80
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 183
 Pic: 268
 Resourse: (7)
@@ -1302,7 +1302,7 @@ Durability: 20
 GoldCost: 15
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 1
 Pic: 201
 Resourse: (0)
@@ -1324,7 +1324,7 @@ Durability: 25
 GoldCost: 30
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 91
 Pic: 202
 Resourse: (0)
@@ -1346,7 +1346,7 @@ Durability: 30
 GoldCost: 60
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 143
 Pic: 203
 Resourse: (0)
@@ -1368,7 +1368,7 @@ Durability: 35
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 184
 Pic: 204
 Resourse: (1)
@@ -1390,7 +1390,7 @@ Durability: 30
 GoldCost: 25
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 2
 Pic: 81
 Resourse: (1)
@@ -1412,7 +1412,7 @@ Durability: 35
 GoldCost: 50
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 87
 Pic: 82
 Resourse: (1)
@@ -1434,7 +1434,7 @@ Durability: 40
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 139
 Pic: 83
 Resourse: (1)
@@ -1456,7 +1456,7 @@ Durability: 45
 GoldCost: 200
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 180
 Pic: 84
 Resourse: (7)
@@ -1478,7 +1478,7 @@ Durability: 30
 GoldCost: 50
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 37
 Pic: 160
 Resourse: (1, 1)
@@ -1508,7 +1508,7 @@ Durability: 35
 GoldCost: 100
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 88
 Pic: 161
 Resourse: (1, 1)
@@ -1538,7 +1538,7 @@ Durability: 40
 GoldCost: 180
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 140
 Pic: 162
 Resourse: (1, 1)
@@ -1568,7 +1568,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 181
 Pic: 163
 Resourse: (7, 7)
@@ -1598,7 +1598,7 @@ Durability: 10
 GoldCost: 10
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 35
 Pic: 123
 Resourse: (0)
@@ -1616,7 +1616,7 @@ Durability: 15
 GoldCost: 20
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 92
 Pic: 124
 Resourse: (0)
@@ -1634,7 +1634,7 @@ Durability: 20
 GoldCost: 40
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 144
 Pic: 125
 Resourse: (0)
@@ -1652,7 +1652,7 @@ Durability: 15
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 185
 Pic: 126
 Resourse: (4)
@@ -1678,7 +1678,7 @@ Durability: 10
 GoldCost: 15
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 35
 Pic: 143
 Resourse: (0)
@@ -1696,7 +1696,7 @@ Durability: 15
 GoldCost: 25
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 0
 Pic: 144
 Resourse: (0)
@@ -1718,7 +1718,7 @@ Durability: 20
 GoldCost: 60
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 144
 Pic: 145
 Resourse: (0)
@@ -1740,7 +1740,7 @@ Durability: 20
 GoldCost: 100
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 185
 Pic: 146
 Resourse: (0)
@@ -1762,7 +1762,7 @@ Durability: 20
 GoldCost: 30
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 91
 Pic: 220
 Resourse: (0)
@@ -1780,7 +1780,7 @@ Durability: 30
 GoldCost: 50
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 143
 Pic: 221
 Resourse: (0)
@@ -1798,7 +1798,7 @@ Durability: 35
 GoldCost: 100
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 184
 Pic: 222
 Resourse: (0)
@@ -1820,7 +1820,7 @@ Durability: 30
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 87
 Pic: 100
 Resourse: (1)
@@ -1838,7 +1838,7 @@ Durability: 35
 GoldCost: 70
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 139
 Pic: 101
 Resourse: (1)
@@ -1856,7 +1856,7 @@ Durability: 40
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 180
 Pic: 102
 Resourse: (1)
@@ -1874,7 +1874,7 @@ Durability: 40
 GoldCost: 50
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 88
 Pic: 179
 Resourse: (1)
@@ -1892,7 +1892,7 @@ Durability: 45
 GoldCost: 80
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 140
 Pic: 180
 Resourse: (1)
@@ -1910,7 +1910,7 @@ Durability: 50
 GoldCost: 150
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 181
 Pic: 181
 Resourse: (1)
@@ -1928,7 +1928,7 @@ Durability: 10
 GoldCost: 10
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 35
 Pic: 134
 Resourse: (0)
@@ -1946,7 +1946,7 @@ Durability: 10
 GoldCost: 25
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 92
 Pic: 135
 Resourse: (0)
@@ -1964,7 +1964,7 @@ Durability: 15
 GoldCost: 40
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 144
 Pic: 136
 Resourse: (0)
@@ -1982,7 +1982,7 @@ Durability: 15
 GoldCost: 100
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 186
 Pic: 137
 Resourse: (4)
@@ -2000,7 +2000,7 @@ Durability: 15
 GoldCost: 30
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 91
 Pic: 212
 Resourse: (0)
@@ -2018,7 +2018,7 @@ Durability: 15
 GoldCost: 70
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 143
 Pic: 213
 Resourse: (0)
@@ -2040,7 +2040,7 @@ Durability: 20
 GoldCost: 100
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 184
 Pic: 214
 Resourse: (0)
@@ -2058,7 +2058,7 @@ Durability: 20
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 87
 Pic: 92
 Resourse: (1)
@@ -2076,7 +2076,7 @@ Durability: 25
 GoldCost: 90
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 139
 Pic: 93
 Resourse: (1)
@@ -2098,7 +2098,7 @@ Durability: 30
 GoldCost: 140
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 180
 Pic: 94
 Resourse: (1)
@@ -2116,7 +2116,7 @@ Durability: 30
 GoldCost: 50
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 88
 Pic: 171
 Resourse: (1)
@@ -2138,7 +2138,7 @@ Durability: 35
 GoldCost: 120
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 140
 Pic: 172
 Resourse: (1)
@@ -2164,7 +2164,7 @@ Durability: 40
 GoldCost: 160
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 181
 Pic: 173
 Resourse: (7)
@@ -2186,7 +2186,7 @@ Durability: 10
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 93
 Pic: 152
 Resourse: (0)
@@ -2204,7 +2204,7 @@ Durability: 15
 GoldCost: 50
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 0
 Pic: 153
 Resourse: (0)
@@ -2222,7 +2222,7 @@ Durability: 10
 GoldCost: 80
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 185
 Pic: 154
 Resourse: (0)
@@ -2240,7 +2240,7 @@ Durability: 15
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 91
 Pic: 228
 Resourse: (0)
@@ -2258,7 +2258,7 @@ Durability: 20
 GoldCost: 80
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 143
 Pic: 229
 Resourse: (0)
@@ -2276,7 +2276,7 @@ Durability: 15
 GoldCost: 200
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 184
 Pic: 230
 Resourse: (0)
@@ -2298,7 +2298,7 @@ Durability: 25
 GoldCost: 50
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 87
 Pic: 108
 Resourse: (1)
@@ -2316,7 +2316,7 @@ Durability: 20
 GoldCost: 90
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 139
 Pic: 109
 Resourse: (1)
@@ -2334,7 +2334,7 @@ Durability: 25
 GoldCost: 200
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 180
 Pic: 110
 Resourse: (1)
@@ -2356,7 +2356,7 @@ Durability: 40
 GoldCost: 60
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 88
 Pic: 187
 Resourse: (1)
@@ -2374,7 +2374,7 @@ Durability: 40
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 140
 Pic: 188
 Resourse: (1)
@@ -2392,7 +2392,7 @@ Durability: 40
 GoldCost: 250
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 181
 Pic: 189
 Resourse: (1)
@@ -2414,7 +2414,7 @@ Durability: 20
 GoldCost: 30
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 87
 Pic: 117
 Resourse: (1)
@@ -2432,7 +2432,7 @@ Durability: 25
 GoldCost: 60
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 139
 Pic: 118
 Resourse: (1)
@@ -2450,7 +2450,7 @@ Durability: 30
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 180
 Pic: 119
 Resourse: (7)
@@ -2468,7 +2468,7 @@ Durability: 30
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 88
 Pic: 195
 Resourse: (1)
@@ -2486,7 +2486,7 @@ Durability: 35
 GoldCost: 80
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 140
 Pic: 196
 Resourse: (1)
@@ -2504,7 +2504,7 @@ Durability: 40
 GoldCost: 150
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 181
 Pic: 197
 Resourse: (1)
@@ -2522,7 +2522,7 @@ Durability: 10
 GoldCost: 25
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 92
 Pic: 302
 Resourse: (0)
@@ -2540,7 +2540,7 @@ Durability: 10
 GoldCost: 100
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 0
 Pic: 303
 Resourse: (0)
@@ -2558,7 +2558,7 @@ Durability: 15
 GoldCost: 50
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 143
 Pic: 236
 Resourse: (0)
@@ -2576,7 +2576,7 @@ Durability: 1
 GoldCost: 80
 GemCost: 2
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 86
 Pic: 305
 Resourse: (1)
@@ -2594,7 +2594,7 @@ Durability: 1
 GoldCost: 150
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 138
 Pic: 306
 Resourse: (0)
@@ -2612,7 +2612,7 @@ Durability: 1
 GoldCost: 200
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 179
 Pic: 307
 Resourse: (0)
@@ -2631,7 +2631,7 @@ Durability: 15
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 91
 Pic: 240
 Resourse: (0)
@@ -2649,7 +2649,7 @@ Durability: 10
 GoldCost: 80
 GemCost: 3
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 145
 Pic: 241
 Resourse: (0)
@@ -2667,7 +2667,7 @@ Durability: 15
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 184
 Pic: 242
 Resourse: (0)
@@ -2689,7 +2689,7 @@ Durability: 10
 GoldCost: 30
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 92
 Pic: 277
 Resourse: (0)
@@ -2707,7 +2707,7 @@ Durability: 15
 GoldCost: 60
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 144
 Pic: 278
 Resourse: (0)
@@ -2729,7 +2729,7 @@ Durability: 10
 GoldCost: 150
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 185
 Pic: 279
 Resourse: (0)
@@ -2751,7 +2751,7 @@ Durability: 1
 GoldCost: 100
 GemCost: 3
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 86
 Pic: 32
 Resourse: (0)
@@ -2769,7 +2769,7 @@ Durability: 1
 GoldCost: 150
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 138
 Pic: 33
 Resourse: (4)
@@ -2787,7 +2787,7 @@ Durability: 1
 GoldCost: 300
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 179
 Pic: 34
 Resourse: (4)
@@ -2805,7 +2805,7 @@ Durability: 1
 GoldCost: 100
 GemCost: 5
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 86
 Pic: 46
 Resourse: (0)
@@ -2823,7 +2823,7 @@ Durability: 1
 GoldCost: 80
 GemCost: 5
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 86
 Pic: 47
 Resourse: (0)
@@ -2841,7 +2841,7 @@ Durability: 1
 GoldCost: 130
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 138
 Pic: 48
 Resourse: (0)
@@ -2859,7 +2859,7 @@ Durability: 1
 GoldCost: 170
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 138
 Pic: 49
 Resourse: (0)
@@ -2877,7 +2877,7 @@ Durability: 1
 GoldCost: 220
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 179
 Pic: 50
 Resourse: (0)
@@ -2895,7 +2895,7 @@ Durability: 1
 GoldCost: 270
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 179
 Pic: 51
 Resourse: (0)
@@ -2913,7 +2913,7 @@ Durability: 25
 GoldCost: 80
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 321
 Resourse: (1, 4)
@@ -2943,7 +2943,7 @@ Durability: 30
 GoldCost: 100
 GemCost: 30
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 322
 Resourse: (4)
@@ -2973,7 +2973,7 @@ Durability: 30
 GoldCost: 200
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 323
 Resourse: (1)
@@ -3003,7 +3003,7 @@ Durability: 30
 GoldCost: 100
 GemCost: 50
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 324
 Resourse: (9)
@@ -3034,7 +3034,7 @@ Durability: 35
 GoldCost: 400
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 325
 Resourse: (5, 7)
@@ -3061,7 +3061,7 @@ Durability: 35
 GoldCost: 500
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 326
 Resourse: (5, 7, 8)
@@ -3096,7 +3096,7 @@ Durability: 40
 GoldCost: 1000
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 327
 Resourse: (7, 8, 9)
@@ -3134,7 +3134,7 @@ Durability: 50
 GoldCost: 120
 GemCost: 20
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 295
 Resourse: (2, 4)
@@ -3172,7 +3172,7 @@ Durability: 60
 GoldCost: 150
 GemCost: 30
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 296
 Resourse: (2, 5)
@@ -3206,7 +3206,7 @@ Durability: 60
 GoldCost: 300
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 297
 Resourse: (2, 5)
@@ -3240,7 +3240,7 @@ Durability: 60
 GoldCost: 350
 GemCost: 40
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 298
 Resourse: (2, 5)
@@ -3275,7 +3275,7 @@ Durability: 60
 GoldCost: 700
 GemCost: 100
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 299
 Resourse: (2, 5, 9)
@@ -3314,7 +3314,7 @@ Durability: 60
 GoldCost: 650
 GemCost: 100
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 243
 Pic: 300
 Resourse: (2, 5, 8)
@@ -3348,7 +3348,7 @@ Durability: 50
 GoldCost: 1500
 GemCost: 200
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 301
 Resourse: (5, 8, 9)
@@ -3382,7 +3382,7 @@ Durability: 60
 GoldCost: 70
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 2
 Building: 121
 Pic: 345
 Resourse: (1)
@@ -3405,7 +3405,7 @@ Durability: 40
 GoldCost: 200
 GemCost: 20
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 346
 Resourse: (1, 5)
@@ -3432,7 +3432,7 @@ Durability: 70
 GoldCost: 250
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 347
 Resourse: (7)
@@ -3459,7 +3459,7 @@ Durability: 40
 GoldCost: 300
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 348
 Resourse: (1)
@@ -3486,7 +3486,7 @@ Durability: 70
 GoldCost: 350
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 349
 Resourse: (7)
@@ -3513,7 +3513,7 @@ Durability: 50
 GoldCost: 500
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 350
 Resourse: (7, 5, 5)
@@ -3544,7 +3544,7 @@ Durability: 50
 GoldCost: 550
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 351
 Resourse: (7, 4)
@@ -3575,7 +3575,7 @@ Durability: 80
 GoldCost: 750
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 352
 Resourse: (7, 7, 8)
@@ -3606,7 +3606,7 @@ Durability: 80
 GoldCost: 160
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 196
 Pic: 4
 Resourse: (7)
@@ -3629,7 +3629,7 @@ Durability: 70
 GoldCost: 300
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 5
 Resourse: (7)
@@ -3655,7 +3655,7 @@ Durability: 70
 GoldCost: 400
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 6
 Resourse: (7)
@@ -3685,7 +3685,7 @@ Durability: 80
 GoldCost: 500
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 7
 Resourse: (7, 5)
@@ -3711,7 +3711,7 @@ Durability: 90
 GoldCost: 800
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 8
 Resourse: (7, 9)
@@ -3738,7 +3738,7 @@ Durability: 90
 GoldCost: 900
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 9
 Resourse: (7, 9)
@@ -3765,7 +3765,7 @@ Durability: 100
 GoldCost: 1500
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 10
 Resourse: (7, 7, 9)
@@ -3799,7 +3799,7 @@ Durability: 50
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 16
 Resourse: (1, 2)
@@ -3825,7 +3825,7 @@ Durability: 60
 GoldCost: 250
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 17
 Resourse: (7, 2)
@@ -3855,7 +3855,7 @@ Durability: 50
 GoldCost: 200
 GemCost: 20
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 18
 Resourse: (7, 2, 4)
@@ -3885,7 +3885,7 @@ Durability: 60
 GoldCost: 400
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 19
 Resourse: (2, 5, 7)
@@ -3919,7 +3919,7 @@ Durability: 70
 GoldCost: 500
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 20
 Resourse: (7, 9)
@@ -3953,7 +3953,7 @@ Durability: 70
 GoldCost: 700
 GemCost: 50
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 21
 Resourse: (7, 9)
@@ -3983,7 +3983,7 @@ Durability: 80
 GoldCost: 2000
 GemCost: 70
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 242
 Pic: 22
 Resourse: (7, 8, 9)
@@ -4021,7 +4021,7 @@ Durability: 40
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 357
 Resourse: (2, 2)
@@ -4048,7 +4048,7 @@ Durability: 45
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 358
 Resourse: (1, 2)
@@ -4079,7 +4079,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 359
 Resourse: (1)
@@ -4110,7 +4110,7 @@ Durability: 50
 GoldCost: 320
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 360
 Resourse: (1)
@@ -4141,7 +4141,7 @@ Durability: 60
 GoldCost: 500
 GemCost: 10
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 361
 Resourse: (7, 5)
@@ -4172,7 +4172,7 @@ Durability: 70
 GoldCost: 700
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 362
 Resourse: (7, 9)
@@ -4203,7 +4203,7 @@ Durability: 100
 GoldCost: 3000
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 363
 Resourse: (7, 8, 9)
@@ -4234,7 +4234,7 @@ Durability: 70
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 380
 Resourse: (7)
@@ -4265,7 +4265,7 @@ Durability: 80
 GoldCost: 300
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 381
 Resourse: (7, 7)
@@ -4292,7 +4292,7 @@ Durability: 80
 GoldCost: 400
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 382
 Resourse: (7, 7)
@@ -4319,7 +4319,7 @@ Durability: 85
 GoldCost: 500
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 383
 Resourse: (7, 7, 4)
@@ -4350,7 +4350,7 @@ Durability: 90
 GoldCost: 500
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 384
 Resourse: (1, 1, 9)
@@ -4381,7 +4381,7 @@ Durability: 100
 GoldCost: 2000
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 385
 Resourse: (7, 9, 9)
@@ -4408,7 +4408,7 @@ Durability: 100
 GoldCost: 1500
 GemCost: 80
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 249
 Pic: 386
 Resourse: (7, 8, 8)
@@ -4435,7 +4435,7 @@ Durability: 10
 GoldCost: 100
 GemCost: 5
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 92
 Pic: 24
 Resourse: (2)
@@ -4458,7 +4458,7 @@ Durability: 10
 GoldCost: 150
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 144
 Pic: 25
 Resourse: (2)
@@ -4481,7 +4481,7 @@ Durability: 30
 GoldCost: 500
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 26
 Resourse: (2, 4)
@@ -4516,7 +4516,7 @@ Durability: 40
 GoldCost: 600
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 27
 Resourse: (2, 4)
@@ -4551,7 +4551,7 @@ Durability: 15
 GoldCost: 550
 GemCost: 40
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 28
 Resourse: (2, 4)
@@ -4577,7 +4577,7 @@ Durability: 30
 GoldCost: 900
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 29
 Resourse: (2, 5)
@@ -4612,7 +4612,7 @@ Durability: 20
 GoldCost: 1000
 GemCost: 80
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 30
 Resourse: (2, 8)
@@ -4639,7 +4639,7 @@ Durability: 40
 GoldCost: 2500
 GemCost: 120
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 31
 Resourse: (2, 8, 8)
@@ -4678,7 +4678,7 @@ Durability: 45
 GoldCost: 70
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 2
 Building: 121
 Pic: 368
 Resourse: (2)
@@ -4704,7 +4704,7 @@ Durability: 55
 GoldCost: 200
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 369
 Resourse: (2)
@@ -4735,7 +4735,7 @@ Durability: 60
 GoldCost: 200
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 370
 Resourse: (2)
@@ -4765,7 +4765,7 @@ Durability: 65
 GoldCost: 220
 GemCost: 5
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 371
 Resourse: (2, 4)
@@ -4796,7 +4796,7 @@ Durability: 70
 GoldCost: 250
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 372
 Resourse: (2, 4)
@@ -4827,7 +4827,7 @@ Durability: 70
 GoldCost: 350
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 373
 Resourse: (2, 5)
@@ -4858,7 +4858,7 @@ Durability: 75
 GoldCost: 500
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 374
 Resourse: (2, 5)
@@ -4889,7 +4889,7 @@ Durability: 80
 GoldCost: 1000
 GemCost: 80
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 375
 Resourse: (2, 8, 8)
@@ -4924,7 +4924,7 @@ Durability: 50
 GoldCost: 200
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 2
 Building: 196
 Pic: 391
 Resourse: (1, 2)
@@ -4958,7 +4958,7 @@ Durability: 55
 GoldCost: 250
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 392
 Resourse: (1, 2)
@@ -4993,7 +4993,7 @@ Durability: 60
 GoldCost: 300
 GemCost: 20
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 393
 Resourse: (1, 2, 4)
@@ -5027,7 +5027,7 @@ Durability: 65
 GoldCost: 450
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 394
 Resourse: (1, 2, 7)
@@ -5058,7 +5058,7 @@ Durability: 80
 GoldCost: 400
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 395
 Resourse: (2, 7, 7)
@@ -5097,7 +5097,7 @@ Durability: 70
 GoldCost: 600
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 396
 Resourse: (7, 2, 5)
@@ -5128,7 +5128,7 @@ Durability: 80
 GoldCost: 1000
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 397
 Resourse: (2, 7, 9)
@@ -5167,7 +5167,7 @@ Durability: 30
 GoldCost: 150
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 257
 Resourse: (4)
@@ -5202,7 +5202,7 @@ Durability: 30
 GoldCost: 100
 GemCost: 7
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 258
 Resourse: (4)
@@ -5241,7 +5241,7 @@ Durability: 35
 GoldCost: 200
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 259
 Resourse: (5)
@@ -5280,7 +5280,7 @@ Durability: 40
 GoldCost: 200
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 260
 Resourse: (9)
@@ -5315,7 +5315,7 @@ Durability: 45
 GoldCost: 400
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 261
 Resourse: (4, 5)
@@ -5350,7 +5350,7 @@ Durability: 50
 GoldCost: 500
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 262
 Resourse: (5, 5)
@@ -5389,7 +5389,7 @@ Durability: 55
 GoldCost: 700
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 263
 Resourse: (5, 8)
@@ -5428,7 +5428,7 @@ Durability: 10
 GoldCost: 0
 GemCost: 5
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 93
 Pic: 66
 Resourse: (0)
@@ -5447,7 +5447,7 @@ Durability: 15
 GoldCost: 0
 GemCost: 10
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 0
 Pic: 67
 Resourse: (4)
@@ -5465,7 +5465,7 @@ Durability: 15
 GoldCost: 10
 GemCost: 5
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 145
 Pic: 68
 Resourse: (4)
@@ -5488,7 +5488,7 @@ Durability: 20
 GoldCost: 50
 GemCost: 7
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 69
 Resourse: (4)
@@ -5511,7 +5511,7 @@ Durability: 20
 GoldCost: 40
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 186
 Pic: 70
 Resourse: (4)
@@ -5538,7 +5538,7 @@ Durability: 25
 GoldCost: 80
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 71
 Resourse: (4)
@@ -5565,7 +5565,7 @@ Durability: 30
 GoldCost: 100
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 72
 Resourse: (9)
@@ -5592,7 +5592,7 @@ Durability: 30
 GoldCost: 100
 GemCost: 40
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 73
 Resourse: (8)
@@ -5619,7 +5619,7 @@ Durability: 35
 GoldCost: 250
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 23
 Resourse: (5, 5)
@@ -5650,7 +5650,7 @@ Durability: 50
 GoldCost: 50
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 333
 Resourse: (1)
@@ -5676,7 +5676,7 @@ Durability: 70
 GoldCost: 90
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 196
 Pic: 334
 Resourse: (1)
@@ -5707,7 +5707,7 @@ Durability: 60
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 335
 Resourse: (1)
@@ -5738,7 +5738,7 @@ Durability: 65
 GoldCost: 180
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 336
 Resourse: (1)
@@ -5769,7 +5769,7 @@ Durability: 70
 GoldCost: 220
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 337
 Resourse: (7)
@@ -5800,7 +5800,7 @@ Durability: 75
 GoldCost: 300
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 338
 Resourse: (5, 7)
@@ -5831,7 +5831,7 @@ Durability: 80
 GoldCost: 500
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 339
 Resourse: (5, 7)
@@ -5862,7 +5862,7 @@ Durability: 100
 GoldCost: 1500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 340
 Resourse: (7, 8, 8)
@@ -5901,7 +5901,7 @@ Durability: 25
 GoldCost: 40
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 2
 Building: 121
 Pic: 269
 Resourse: (1)
@@ -5923,7 +5923,7 @@ Durability: 10
 GoldCost: 80
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 270
 Resourse: (1)
@@ -5950,7 +5950,7 @@ Durability: 15
 GoldCost: 100
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 271
 Resourse: (1, 4)
@@ -5977,7 +5977,7 @@ Durability: 20
 GoldCost: 120
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 272
 Resourse: (7)
@@ -6004,7 +6004,7 @@ Durability: 15
 GoldCost: 150
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 273
 Resourse: (5)
@@ -6031,7 +6031,7 @@ Durability: 20
 GoldCost: 200
 GemCost: 10
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 274
 Resourse: (7)
@@ -6058,7 +6058,7 @@ Durability: 25
 GoldCost: 250
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 275
 Resourse: (7, 9)
@@ -6085,7 +6085,7 @@ Durability: 33
 GoldCost: 500
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 242
 Pic: 276
 Resourse: (7, 8)
@@ -6116,7 +6116,7 @@ Durability: 20
 GoldCost: 60
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 127
 Resourse: (0)
@@ -6139,7 +6139,7 @@ Durability: 20
 GoldCost: 60
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 128
 Resourse: (0)
@@ -6162,7 +6162,7 @@ Durability: 25
 GoldCost: 150
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 129
 Resourse: (0)
@@ -6185,7 +6185,7 @@ Durability: 20
 GoldCost: 170
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 130
 Resourse: (5)
@@ -6208,7 +6208,7 @@ Durability: 30
 GoldCost: 400
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 131
 Resourse: (5)
@@ -6243,7 +6243,7 @@ Durability: 35
 GoldCost: 500
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 132
 Resourse: (5, 9)
@@ -6278,7 +6278,7 @@ Durability: 40
 GoldCost: 1000
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 133
 Resourse: (5, 8, 9)
@@ -6313,7 +6313,7 @@ Durability: 30
 GoldCost: 90
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 205
 Resourse: (0)
@@ -6340,7 +6340,7 @@ Durability: 35
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 206
 Resourse: (0)
@@ -6367,7 +6367,7 @@ Durability: 35
 GoldCost: 200
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 207
 Resourse: (0)
@@ -6394,7 +6394,7 @@ Durability: 40
 GoldCost: 200
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 208
 Resourse: (4)
@@ -6421,7 +6421,7 @@ Durability: 45
 GoldCost: 400
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 209
 Resourse: (4, 5)
@@ -6448,7 +6448,7 @@ Durability: 50
 GoldCost: 500
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 210
 Resourse: (4, 5, 8)
@@ -6475,7 +6475,7 @@ Durability: 60
 GoldCost: 1200
 GemCost: 30
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 211
 Resourse: (4, 4, 9)
@@ -6502,7 +6502,7 @@ Durability: 50
 GoldCost: 200
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 196
 Pic: 85
 Resourse: (1)
@@ -6529,7 +6529,7 @@ Durability: 45
 GoldCost: 250
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 86
 Resourse: (1)
@@ -6555,7 +6555,7 @@ Durability: 40
 GoldCost: 250
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 87
 Resourse: (7)
@@ -6582,7 +6582,7 @@ Durability: 50
 GoldCost: 300
 GemCost: 5
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 88
 Resourse: (7)
@@ -6609,7 +6609,7 @@ Durability: 50
 GoldCost: 300
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 89
 Resourse: (7, 5, 5)
@@ -6636,7 +6636,7 @@ Durability: 60
 GoldCost: 700
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 90
 Resourse: (7, 5, 8)
@@ -6663,7 +6663,7 @@ Durability: 70
 GoldCost: 1500
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 91
 Resourse: (7, 9, 8)
@@ -6690,7 +6690,7 @@ Durability: 40
 GoldCost: 200
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 164
 Resourse: (1, 1)
@@ -6721,7 +6721,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 165
 Resourse: (1, 7)
@@ -6755,7 +6755,7 @@ Durability: 45
 GoldCost: 350
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 166
 Resourse: (5, 7)
@@ -6790,7 +6790,7 @@ Durability: 50
 GoldCost: 400
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 167
 Resourse: (7, 7)
@@ -6825,7 +6825,7 @@ Durability: 60
 GoldCost: 800
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 168
 Resourse: (5, 7, 7)
@@ -6860,7 +6860,7 @@ Durability: 60
 GoldCost: 1000
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 169
 Resourse: (7, 7, 8)
@@ -6891,7 +6891,7 @@ Durability: 200
 GoldCost: 2000
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 170
 Resourse: (7, 7, 8, 8)
@@ -6922,7 +6922,7 @@ Durability: 20
 GoldCost: 90
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 147
 Resourse: (0)
@@ -6944,7 +6944,7 @@ Durability: 20
 GoldCost: 150
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 148
 Resourse: (4)
@@ -6967,7 +6967,7 @@ Durability: 25
 GoldCost: 300
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 149
 Resourse: (5)
@@ -6990,7 +6990,7 @@ Durability: 30
 GoldCost: 400
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 150
 Resourse: (5, 9)
@@ -7013,7 +7013,7 @@ Durability: 35
 GoldCost: 1000
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 151
 Resourse: (5, 5, 8)
@@ -7036,7 +7036,7 @@ Durability: 35
 GoldCost: 80
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 223
 Resourse: (0)
@@ -7059,7 +7059,7 @@ Durability: 40
 GoldCost: 160
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 224
 Resourse: (4)
@@ -7082,7 +7082,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 225
 Resourse: (4, 5)
@@ -7109,7 +7109,7 @@ Durability: 40
 GoldCost: 400
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 226
 Resourse: (5, 5)
@@ -7140,7 +7140,7 @@ Durability: 40
 GoldCost: 1000
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 245
 Pic: 227
 Resourse: (5, 5, 8)
@@ -7171,7 +7171,7 @@ Durability: 40
 GoldCost: 120
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 103
 Resourse: (1)
@@ -7193,7 +7193,7 @@ Durability: 45
 GoldCost: 180
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 104
 Resourse: (1)
@@ -7216,7 +7216,7 @@ Durability: 50
 GoldCost: 400
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 105
 Resourse: (7)
@@ -7243,7 +7243,7 @@ Durability: 60
 GoldCost: 600
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 106
 Resourse: (7, 5)
@@ -7274,7 +7274,7 @@ Durability: 55
 GoldCost: 1000
 GemCost: 20
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 107
 Resourse: (7, 8)
@@ -7301,7 +7301,7 @@ Durability: 50
 GoldCost: 120
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 182
 Resourse: (1)
@@ -7323,7 +7323,7 @@ Durability: 55
 GoldCost: 200
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 183
 Resourse: (7)
@@ -7345,7 +7345,7 @@ Durability: 65
 GoldCost: 400
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 184
 Resourse: (7, 7)
@@ -7376,7 +7376,7 @@ Durability: 60
 GoldCost: 600
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 185
 Resourse: (7, 7)
@@ -7411,7 +7411,7 @@ Durability: 80
 GoldCost: 1200
 GemCost: 70
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 186
 Resourse: (7, 7, 8)
@@ -7446,7 +7446,7 @@ Durability: 15
 GoldCost: 80
 GemCost: 15
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 138
 Resourse: (4)
@@ -7468,7 +7468,7 @@ Durability: 20
 GoldCost: 150
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 139
 Resourse: (4)
@@ -7491,7 +7491,7 @@ Durability: 20
 GoldCost: 300
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 140
 Resourse: (9)
@@ -7514,7 +7514,7 @@ Durability: 25
 GoldCost: 400
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 141
 Resourse: (5, 9)
@@ -7541,7 +7541,7 @@ Durability: 30
 GoldCost: 1000
 GemCost: 80
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 142
 Resourse: (5, 8, 9)
@@ -7568,7 +7568,7 @@ Durability: 15
 GoldCost: 100
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 215
 Resourse: (0)
@@ -7590,7 +7590,7 @@ Durability: 30
 GoldCost: 160
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 216
 Resourse: (4)
@@ -7609,7 +7609,7 @@ Durability: 35
 GoldCost: 300
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 217
 Resourse: (4)
@@ -7632,7 +7632,7 @@ Durability: 40
 GoldCost: 400
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 218
 Resourse: (5)
@@ -7659,7 +7659,7 @@ Durability: 40
 GoldCost: 300
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 219
 Resourse: (4, 5)
@@ -7682,7 +7682,7 @@ Durability: 30
 GoldCost: 130
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 95
 Resourse: (1)
@@ -7704,7 +7704,7 @@ Durability: 35
 GoldCost: 180
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 96
 Resourse: (7)
@@ -7727,7 +7727,7 @@ Durability: 40
 GoldCost: 300
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 97
 Resourse: (7, 5)
@@ -7754,7 +7754,7 @@ Durability: 50
 GoldCost: 400
 GemCost: 35
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 98
 Resourse: (7, 7, 5)
@@ -7781,7 +7781,7 @@ Durability: 45
 GoldCost: 1000
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 99
 Resourse: (7, 5, 8)
@@ -7812,7 +7812,7 @@ Durability: 35
 GoldCost: 160
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 174
 Resourse: (1)
@@ -7839,7 +7839,7 @@ Durability: 45
 GoldCost: 200
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 175
 Resourse: (7)
@@ -7866,7 +7866,7 @@ Durability: 50
 GoldCost: 400
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 176
 Resourse: (7)
@@ -7893,7 +7893,7 @@ Durability: 55
 GoldCost: 500
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 177
 Resourse: (7, 8)
@@ -7920,7 +7920,7 @@ Durability: 60
 GoldCost: 1000
 GemCost: 45
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 178
 Resourse: (7, 8, 9)
@@ -7955,7 +7955,7 @@ Durability: 10
 GoldCost: 100
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 155
 Resourse: (4)
@@ -7978,7 +7978,7 @@ Durability: 15
 GoldCost: 120
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 156
 Resourse: (4)
@@ -8001,7 +8001,7 @@ Durability: 15
 GoldCost: 250
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 157
 Resourse: (5)
@@ -8028,7 +8028,7 @@ Durability: 20
 GoldCost: 300
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 158
 Resourse: (5, 9)
@@ -8059,7 +8059,7 @@ Durability: 20
 GoldCost: 300
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 159
 Resourse: (5, 8, 9)
@@ -8086,7 +8086,7 @@ Durability: 20
 GoldCost: 120
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 231
 Resourse: (0)
@@ -8109,7 +8109,7 @@ Durability: 30
 GoldCost: 250
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 232
 Resourse: (4)
@@ -8132,7 +8132,7 @@ Durability: 30
 GoldCost: 400
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 233
 Resourse: (4, 5)
@@ -8159,7 +8159,7 @@ Durability: 35
 GoldCost: 500
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 234
 Resourse: (5, 5)
@@ -8186,7 +8186,7 @@ Durability: 35
 GoldCost: 1000
 GemCost: 0
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 235
 Resourse: (5, 5, 8)
@@ -8217,7 +8217,7 @@ Durability: 30
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 196
 Pic: 111
 Resourse: (1)
@@ -8240,7 +8240,7 @@ Durability: 25
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 112
 Resourse: (1)
@@ -8266,7 +8266,7 @@ Durability: 30
 GoldCost: 250
 GemCost: 5
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 113
 Resourse: (7)
@@ -8289,7 +8289,7 @@ Durability: 35
 GoldCost: 500
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 114
 Resourse: (7, 4)
@@ -8312,7 +8312,7 @@ Durability: 40
 GoldCost: 600
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 115
 Resourse: (7, 5)
@@ -8339,7 +8339,7 @@ Durability: 40
 GoldCost: 1000
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 116
 Resourse: (7, 5, 8)
@@ -8366,7 +8366,7 @@ Durability: 40
 GoldCost: 130
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 190
 Resourse: (1)
@@ -8389,7 +8389,7 @@ Durability: 40
 GoldCost: 350
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 191
 Resourse: (7)
@@ -8416,7 +8416,7 @@ Durability: 45
 GoldCost: 500
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 192
 Resourse: (7, 5)
@@ -8447,7 +8447,7 @@ Durability: 50
 GoldCost: 700
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 193
 Resourse: (7, 5, 8)
@@ -8478,7 +8478,7 @@ Durability: 60
 GoldCost: 1000
 GemCost: 30
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 194
 Resourse: (7, 7, 8)
@@ -8509,7 +8509,7 @@ Durability: 10
 GoldCost: 220
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 304
 Resourse: (4)
@@ -8531,7 +8531,7 @@ Durability: 1
 GoldCost: 250
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 308
 Resourse: (4)
@@ -8550,7 +8550,7 @@ Durability: 1
 GoldCost: 350
 GemCost: 25
 ShopLevel: 4
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 309
 Resourse: (4)
@@ -8569,7 +8569,7 @@ Durability: 1
 GoldCost: 300
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 310
 Resourse: (5)
@@ -8588,7 +8588,7 @@ Durability: 1
 GoldCost: 400
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 311
 Resourse: (5)
@@ -8611,7 +8611,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 312
 Resourse: (5)
@@ -8634,7 +8634,7 @@ Durability: 1
 GoldCost: 550
 GemCost: 35
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 313
 Resourse: (5, 9)
@@ -8657,7 +8657,7 @@ Durability: 1
 GoldCost: 550
 GemCost: 35
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 314
 Resourse: (5, 8)
@@ -8680,7 +8680,7 @@ Durability: 1
 GoldCost: 1000
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 315
 Resourse: (5, 9, 9)
@@ -8703,7 +8703,7 @@ Durability: 1
 GoldCost: 1500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 316
 Resourse: (5, 8, 8)
@@ -8722,7 +8722,7 @@ Durability: 15
 GoldCost: 250
 GemCost: 5
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 237
 Resourse: (4)
@@ -8745,7 +8745,7 @@ Durability: 30
 GoldCost: 500
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 238
 Resourse: (4, 4, 4)
@@ -8776,7 +8776,7 @@ Durability: 30
 GoldCost: 1000
 GemCost: 25
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 239
 Resourse: (4, 4, 5)
@@ -8803,7 +8803,7 @@ Durability: 20
 GoldCost: 250
 GemCost: 5
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 120
 Resourse: (7)
@@ -8826,7 +8826,7 @@ Durability: 30
 GoldCost: 500
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 121
 Resourse: (7)
@@ -8853,7 +8853,7 @@ Durability: 40
 GoldCost: 1000
 GemCost: 30
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 122
 Resourse: (7, 7, 8)
@@ -8880,7 +8880,7 @@ Durability: 30
 GoldCost: 280
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 198
 Resourse: (7, 4)
@@ -8903,7 +8903,7 @@ Durability: 40
 GoldCost: 550
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 199
 Resourse: (5, 5)
@@ -8930,7 +8930,7 @@ Durability: 50
 GoldCost: 900
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 200
 Resourse: (7, 7, 8)
@@ -8965,7 +8965,7 @@ Durability: 10
 GoldCost: 100
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 243
 Resourse: (0)
@@ -8987,7 +8987,7 @@ Durability: 15
 GoldCost: 120
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 244
 Resourse: (4)
@@ -9009,7 +9009,7 @@ Durability: 15
 GoldCost: 150
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 245
 Resourse: (5)
@@ -9032,7 +9032,7 @@ Durability: 20
 GoldCost: 180
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 246
 Resourse: (5)
@@ -9059,7 +9059,7 @@ Durability: 15
 GoldCost: 400
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 247
 Resourse: (4, 5, 5)
@@ -9078,7 +9078,7 @@ Durability: 15
 GoldCost: 450
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 248
 Resourse: (4, 5, 5)
@@ -9105,7 +9105,7 @@ Durability: 20
 GoldCost: 500
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 249
 Resourse: (7, 5, 5)
@@ -9132,7 +9132,7 @@ Durability: 20
 GoldCost: 550
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 250
 Resourse: (7, 5, 5)
@@ -9159,7 +9159,7 @@ Durability: 30
 GoldCost: 1000
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 251
 Resourse: (5, 5, 9)
@@ -9182,7 +9182,7 @@ Durability: 25
 GoldCost: 1000
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 252
 Resourse: (5, 8, 9)
@@ -9209,7 +9209,7 @@ Durability: 15
 GoldCost: 100
 GemCost: 20
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 280
 Resourse: (4)
@@ -9232,7 +9232,7 @@ Durability: 20
 GoldCost: 120
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 281
 Resourse: (4)
@@ -9255,7 +9255,7 @@ Durability: 20
 GoldCost: 110
 GemCost: 15
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 282
 Resourse: (4)
@@ -9278,7 +9278,7 @@ Durability: 15
 GoldCost: 200
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 283
 Resourse: (4)
@@ -9301,7 +9301,7 @@ Durability: 15
 GoldCost: 300
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 284
 Resourse: (5)
@@ -9324,7 +9324,7 @@ Durability: 20
 GoldCost: 500
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 285
 Resourse: (4, 5)
@@ -9355,7 +9355,7 @@ Durability: 25
 GoldCost: 550
 GemCost: 40
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 286
 Resourse: (5, 9)
@@ -9377,7 +9377,7 @@ Durability: 30
 GoldCost: 650
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 287
 Resourse: (5, 8)
@@ -9400,7 +9400,7 @@ Durability: 30
 GoldCost: 600
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 288
 Resourse: (5, 8)
@@ -9423,7 +9423,7 @@ Durability: 35
 GoldCost: 1200
 GemCost: 70
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 289
 Resourse: (5, 8, 8)
@@ -9446,7 +9446,7 @@ Durability: 40
 GoldCost: 1000
 GemCost: 80
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 290
 Resourse: (5, 8, 8)
@@ -9469,7 +9469,7 @@ Durability: 1
 GoldCost: 170
 GemCost: 5
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 0
 Pic: 35
 Resourse: (4)
@@ -9488,7 +9488,7 @@ Durability: 1
 GoldCost: 200
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 36
 Resourse: (4)
@@ -9506,7 +9506,7 @@ Durability: 1
 GoldCost: 320
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 37
 Resourse: (4)
@@ -9525,7 +9525,7 @@ Durability: 1
 GoldCost: 350
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 38
 Resourse: (4)
@@ -9544,7 +9544,7 @@ Durability: 1
 GoldCost: 350
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 39
 Resourse: (4)
@@ -9563,7 +9563,7 @@ Durability: 1
 GoldCost: 600
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 40
 Resourse: (5)
@@ -9582,7 +9582,7 @@ Durability: 1
 GoldCost: 700
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 41
 Resourse: (5, 8)
@@ -9609,7 +9609,7 @@ Durability: 1
 GoldCost: 800
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 42
 Resourse: (5, 8)
@@ -9632,7 +9632,7 @@ Durability: 1
 GoldCost: 700
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 43
 Resourse: (5, 9)
@@ -9655,7 +9655,7 @@ Durability: 1
 GoldCost: 1200
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 44
 Resourse: (5, 8, 9)
@@ -9678,7 +9678,7 @@ Durability: 1
 GoldCost: 2000
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 45
 Resourse: (8, 8, 9)
@@ -9697,7 +9697,7 @@ Durability: 1
 GoldCost: 150
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 52
 Resourse: (4)
@@ -9716,7 +9716,7 @@ Durability: 1
 GoldCost: 130
 GemCost: 20
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 53
 Resourse: (4)
@@ -9735,7 +9735,7 @@ Durability: 1
 GoldCost: 280
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 54
 Resourse: (5)
@@ -9754,7 +9754,7 @@ Durability: 1
 GoldCost: 300
 GemCost: 25
 ShopLevel: 4
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 55
 Resourse: (5)
@@ -9773,7 +9773,7 @@ Durability: 1
 GoldCost: 500
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 56
 Resourse: (5)
@@ -9796,7 +9796,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 35
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 57
 Resourse: (5)
@@ -9819,7 +9819,7 @@ Durability: 1
 GoldCost: 300
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 58
 Resourse: (5)
@@ -9838,7 +9838,7 @@ Durability: 1
 GoldCost: 600
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 59
 Resourse: (5, 9)
@@ -9860,7 +9860,7 @@ Durability: 1
 GoldCost: 700
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 60
 Resourse: (5, 8)
@@ -9883,7 +9883,7 @@ Durability: 1
 GoldCost: 600
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 61
 Resourse: (5, 8)
@@ -9902,7 +9902,7 @@ Durability: 1
 GoldCost: 2000
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 62
 Resourse: (5, 9, 9)
@@ -9925,7 +9925,7 @@ Durability: 1
 GoldCost: 1000
 GemCost: 70
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 63
 Resourse: (5, 8, 9)
@@ -9948,7 +9948,7 @@ Durability: 1
 GoldCost: 1200
 GemCost: 70
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 64
 Resourse: (5, 8, 9)
@@ -9971,7 +9971,7 @@ Durability: 1
 GoldCost: 1700
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 65
 Resourse: (5, 8, 9)
@@ -9993,7 +9993,7 @@ Durability: 1
 GoldCost: 125
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 79
 Resourse: (0)
@@ -10011,7 +10011,7 @@ Durability: 1
 GoldCost: 100
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 198
 Pic: 78
 Resourse: (0)
@@ -10029,7 +10029,7 @@ Durability: 1
 GoldCost: 500
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 80
 Resourse: (0)
@@ -10047,7 +10047,7 @@ Durability: 1
 GoldCost: 1100
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 376
 Resourse: (0)
@@ -10065,7 +10065,7 @@ Durability: 1
 GoldCost: 125
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 398
 Resourse: (0)
@@ -10083,7 +10083,7 @@ Durability: 1
 GoldCost: 3000
 GemCost: 135
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 399
 Resourse: (0)
@@ -10101,7 +10101,7 @@ Durability: 50
 GoldCost: 1000
 GemCost: 100
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 400
 Resourse: (7, 5, 8)
@@ -10135,7 +10135,7 @@ Durability: 40
 GoldCost: 200
 GemCost: 15
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 401
 Resourse: (1, 7)
@@ -10165,7 +10165,7 @@ Durability: 40
 GoldCost: 750
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 402
 Resourse: (9, 9)
@@ -10191,7 +10191,7 @@ Durability: 25
 GoldCost: 500
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 403
 Resourse: (7, 9, 9)
@@ -10221,7 +10221,7 @@ Durability: 50
 GoldCost: 600
 GemCost: 55
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 404
 Resourse: (5, 8)
@@ -10247,7 +10247,7 @@ Durability: 50
 GoldCost: 1000
 GemCost: 300
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 405
 Resourse: (7, 9, 9)
@@ -10285,7 +10285,7 @@ Durability: 80
 GoldCost: 2400
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 406
 Resourse: (2, 5, 8)
@@ -10323,7 +10323,7 @@ Durability: 30
 GoldCost: 750
 GemCost: 75
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 407
 Resourse: (5, 8, 8)
@@ -10357,7 +10357,7 @@ Durability: 1
 GoldCost: 975
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 408
 Resourse: (8)
@@ -10375,7 +10375,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 409
 Resourse: (6)
@@ -10393,7 +10393,7 @@ Durability: 1
 GoldCost: 3000
 GemCost: 300
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 212
 Pic: 410
 Resourse: (0)
@@ -10411,7 +10411,7 @@ Durability: 1
 GoldCost: 1200
 GemCost: 25
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 289
 Pic: 411
 Resourse: (0)
@@ -10429,7 +10429,7 @@ Durability: 1
 GoldCost: 110
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 412
 Resourse: (0)
@@ -10447,7 +10447,7 @@ Durability: 1
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 413
 Resourse: (0)
@@ -10465,7 +10465,7 @@ Durability: 1
 GoldCost: 525
 GemCost: 105
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 414
 Resourse: (4, 5)
@@ -10483,7 +10483,7 @@ Durability: 1
 GoldCost: 900
 GemCost: 15
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 415
 Resourse: (5, 7)
@@ -10501,7 +10501,7 @@ Durability: 1
 GoldCost: 150
 GemCost: 7
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 416
 Resourse: (2)
@@ -10519,7 +10519,7 @@ Durability: 1
 GoldCost: 75
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 417
 Resourse: (7)
@@ -10537,7 +10537,7 @@ Durability: 1
 GoldCost: 180
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 418
 Resourse: (7)
@@ -10555,7 +10555,7 @@ Durability: 1
 GoldCost: 195
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 419
 Resourse: (3, 7)
@@ -10573,7 +10573,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 105
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 420
 Resourse: (4, 5, 5)
@@ -10591,7 +10591,7 @@ Durability: 1
 GoldCost: 675
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 421
 Resourse: (7, 5, 9)
@@ -10609,7 +10609,7 @@ Durability: 1
 GoldCost: 120
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 422
 Resourse: (1)
@@ -10627,7 +10627,7 @@ Durability: 1
 GoldCost: 375
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 423
 Resourse: (1, 2, 7)
@@ -10645,7 +10645,7 @@ Durability: 1
 GoldCost: 1125
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 424
 Resourse: (1, 2, 7)
@@ -10663,7 +10663,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 425
 Resourse: (7, 7)
@@ -10681,7 +10681,7 @@ Durability: 1
 GoldCost: 2250
 GemCost: 0
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 426
 Resourse: (7, 7, 6)
@@ -10699,7 +10699,7 @@ Durability: 1
 GoldCost: 7
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 427
 Resourse: (0)
@@ -10717,7 +10717,7 @@ Durability: 1
 GoldCost: 105
 GemCost: 7
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 428
 Resourse: (4, 4)
@@ -10735,7 +10735,7 @@ Durability: 1
 GoldCost: 90
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 429
 Resourse: (0)
@@ -10753,7 +10753,7 @@ Durability: 1
 GoldCost: 45
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 430
 Resourse: (0)
@@ -10771,7 +10771,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 105
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 431
 Resourse: (4, 5)
@@ -10789,7 +10789,7 @@ Durability: 1
 GoldCost: 1000
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 432
 Resourse: (0)
@@ -10807,7 +10807,7 @@ Durability: 1
 GoldCost: 37
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 433
 Resourse: (0)
@@ -10825,7 +10825,7 @@ Durability: 1
 GoldCost: 90
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 434
 Resourse: (0)
@@ -10843,7 +10843,7 @@ Durability: 1
 GoldCost: 475
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 226
 Pic: 435
 Resourse: (0)
@@ -10861,7 +10861,7 @@ Durability: 1
 GoldCost: 600
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 436
 Resourse: (4, 5, 5)
@@ -10879,7 +10879,7 @@ Durability: 1
 GoldCost: 45
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 437
 Resourse: (0)
@@ -10897,7 +10897,7 @@ Durability: 1
 GoldCost: 90
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 438
 Resourse: (0)
@@ -10915,7 +10915,7 @@ Durability: 1
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 439
 Resourse: (1, 1)
@@ -10933,7 +10933,7 @@ Durability: 1
 GoldCost: 150
 GemCost: 22
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 440
 Resourse: (4, 4)
@@ -10951,7 +10951,7 @@ Durability: 1
 GoldCost: 375
 GemCost: 6
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 441
 Resourse: (7, 7)
@@ -10969,7 +10969,7 @@ Durability: 1
 GoldCost: 1200
 GemCost: 180
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 442
 Resourse: (5, 5, 9)
@@ -10987,7 +10987,7 @@ Durability: 1
 GoldCost: 30
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 443
 Resourse: (1)
@@ -11005,7 +11005,7 @@ Durability: 1
 GoldCost: 18
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 444
 Resourse: (0)
@@ -11023,7 +11023,7 @@ Durability: 1
 GoldCost: 37
 GemCost: 15
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 445
 Resourse: (4)
@@ -11041,7 +11041,7 @@ Durability: 1
 GoldCost: 75
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 446
 Resourse: (1, 1)
@@ -11059,7 +11059,7 @@ Durability: 1
 GoldCost: 115
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 447
 Resourse: (1, 1)
@@ -11077,7 +11077,7 @@ Durability: 1
 GoldCost: 300
 GemCost: 75
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 448
 Resourse: (9)
@@ -11095,7 +11095,7 @@ Durability: 1
 GoldCost: 900
 GemCost: 0
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 449
 Resourse: (1, 1, 7)
@@ -11113,7 +11113,7 @@ Durability: 1
 GoldCost: 100
 GemCost: 10
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 197
 Pic: 450
 Resourse: (0)
@@ -11131,7 +11131,7 @@ Durability: 1
 GoldCost: 135
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 451
 Resourse: (7)
@@ -11149,7 +11149,7 @@ Durability: 1
 GoldCost: 2400
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 234
 Pic: 452
 Resourse: (0)
@@ -11167,7 +11167,7 @@ Durability: 1
 GoldCost: 3600
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 235
 Pic: 453
 Resourse: (0)
@@ -11185,7 +11185,7 @@ Durability: 1
 GoldCost: 175
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 45
 Pic: 454
 Resourse: (0)
@@ -11203,7 +11203,7 @@ Durability: 1
 GoldCost: 700
 GemCost: 130
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 236
 Pic: 455
 Resourse: (0)
@@ -11221,7 +11221,7 @@ Durability: 1
 GoldCost: 2400
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 237
 Pic: 456
 Resourse: (0)
@@ -11239,7 +11239,7 @@ Durability: 1
 GoldCost: 750
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 238
 Pic: 457
 Resourse: (0)
@@ -11257,7 +11257,7 @@ Durability: 1
 GoldCost: 630
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 458
 Resourse: (0)
@@ -11275,7 +11275,7 @@ Durability: 1
 GoldCost: 1800
 GemCost: 135
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 459
 Resourse: (5, 8, 9)
@@ -11293,7 +11293,7 @@ Durability: 40
 GoldCost: 1500
 GemCost: 225
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 460
 Resourse: (5, 8, 9)
@@ -11327,7 +11327,7 @@ Durability: 20
 GoldCost: 1500
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 461
 Resourse: (5, 8, 9)
@@ -11353,7 +11353,7 @@ Durability: 20
 GoldCost: 1200
 GemCost: 120
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 462
 Resourse: (5, 9, 9)
@@ -11383,7 +11383,7 @@ Durability: 1
 GoldCost: 2200
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 463
 Resourse: (5, 8, 8)
@@ -11405,7 +11405,7 @@ Durability: 50
 GoldCost: 600
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 464
 Resourse: (5, 9)
@@ -11427,7 +11427,7 @@ Durability: 20
 GoldCost: 500
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 465
 Resourse: (5, 9)
@@ -11461,7 +11461,7 @@ Durability: 1
 GoldCost: 2500
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 466
 Resourse: (5, 8, 9)
@@ -11487,7 +11487,7 @@ Durability: 50
 GoldCost: 2300
 GemCost: 300
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 467
 Resourse: (5, 8, 9)
@@ -11521,7 +11521,7 @@ Durability: 1
 GoldCost: 1100
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 468
 Resourse: (5, 8)
@@ -11543,7 +11543,7 @@ Durability: 120
 GoldCost: 3000
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 469
 Resourse: (7, 7, 7, 8)
@@ -11573,7 +11573,7 @@ Durability: 60
 GoldCost: 1100
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 470
 Resourse: (5)
@@ -11611,7 +11611,7 @@ Durability: 160
 GoldCost: 1800
 GemCost: 120
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 471
 Resourse: (7, 7, 8)
@@ -11649,7 +11649,7 @@ Durability: 100
 GoldCost: 1700
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 472
 Resourse: (7, 7, 8)
@@ -11683,7 +11683,7 @@ Durability: 120
 GoldCost: 1500
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 473
 Resourse: (7, 7, 8)
@@ -11721,7 +11721,7 @@ Durability: 120
 GoldCost: 1500
 GemCost: 75
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 474
 Resourse: (7, 8, 9)
@@ -11759,7 +11759,7 @@ Durability: 1
 GoldCost: 3000
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 475
 Resourse: (5, 9, 9)
@@ -11781,7 +11781,7 @@ Durability: 200
 GoldCost: 2300
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 476
 Resourse: (7, 8, 8)
@@ -11819,7 +11819,7 @@ Durability: 160
 GoldCost: 1100
 GemCost: 600
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 477
 Resourse: (7, 9)
@@ -11849,7 +11849,7 @@ Durability: 1
 GoldCost: 1800
 GemCost: 140
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 478
 Resourse: (5, 8, 9)
@@ -11875,7 +11875,7 @@ Durability: 30
 GoldCost: 1500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 479
 Resourse: (7, 8, 8)
@@ -11901,7 +11901,7 @@ Durability: 60
 GoldCost: 850
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 480
 Resourse: (5, 8, 8)
@@ -11931,7 +11931,7 @@ Durability: 80
 GoldCost: 1500
 GemCost: 80
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 481
 Resourse: (5, 5, 8)
@@ -11961,7 +11961,7 @@ Durability: 160
 GoldCost: 2000
 GemCost: 120
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 482
 Resourse: (2, 8, 8)
@@ -11991,7 +11991,7 @@ Durability: 60
 GoldCost: 1500
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 483
 Resourse: (4, 4, 5)
@@ -12017,7 +12017,7 @@ Durability: 70
 GoldCost: 1500
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 484
 Resourse: (5, 5, 8)
@@ -12043,7 +12043,7 @@ Durability: 100
 GoldCost: 900
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 485
 Resourse: (5, 8)
@@ -12069,7 +12069,7 @@ Durability: 1
 GoldCost: 1800
 GemCost: 120
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 486
 Resourse: (5, 8, 9)
@@ -12091,7 +12091,7 @@ Durability: 120
 GoldCost: 1800
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 487
 Resourse: (4, 4, 9)
@@ -12121,7 +12121,7 @@ Durability: 1
 GoldCost: 2500
 GemCost: 130
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 488
 Resourse: (8, 8, 9)
@@ -12147,7 +12147,7 @@ Durability: 100
 GoldCost: 2500
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 489
 Resourse: (7, 5, 8)
@@ -12177,7 +12177,7 @@ Durability: 60
 GoldCost: 900
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 490
 Resourse: (5, 8, 8)
@@ -12207,7 +12207,7 @@ Durability: 110
 GoldCost: 1500
 GemCost: 30
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 491
 Resourse: (7, 8)
@@ -12237,7 +12237,7 @@ Durability: 1
 GoldCost: 1500
 GemCost: 45
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 492
 Resourse: (7, 7, 8)
@@ -12263,7 +12263,7 @@ Durability: 80
 GoldCost: 1500
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 493
 Resourse: (7, 5, 8)
@@ -12293,7 +12293,7 @@ Durability: 90
 GoldCost: 1500
 GemCost: 75
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 494
 Resourse: (7, 5, 8)
@@ -12323,7 +12323,7 @@ Durability: 1
 GoldCost: 1200
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 495
 Resourse: (5, 8)
@@ -12341,7 +12341,7 @@ Durability: 160
 GoldCost: 2800
 GemCost: 200
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 496
 Resourse: (2, 5, 8)
@@ -12379,7 +12379,7 @@ Durability: 1
 GoldCost: 80
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 497
 Resourse: (0)
@@ -12397,7 +12397,7 @@ Durability: 60
 GoldCost: 3500
 GemCost: 250
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 498
 Resourse: (7, 7, 9, 9)
@@ -12427,7 +12427,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 499
 Resourse: (0)
@@ -12457,7 +12457,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 500
 Resourse: (0)
@@ -12487,7 +12487,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 501
 Resourse: (0)
@@ -12517,7 +12517,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 502
 Resourse: (0)
@@ -12547,7 +12547,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 503
 Resourse: (0)
@@ -12585,7 +12585,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 504
 Resourse: (0)
@@ -12623,7 +12623,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 505
 Resourse: (0)
@@ -12657,7 +12657,7 @@ Durability: 1
 GoldCost: 5000
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 506
 Resourse: (0)
@@ -12691,7 +12691,7 @@ Durability: 10
 GoldCost: 1500
 GemCost: 225
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 507
 Resourse: (5, 8, 9)
@@ -12721,7 +12721,7 @@ Durability: 35
 GoldCost: 1800
 GemCost: 110
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 508
 Resourse: (5, 8, 8)
@@ -12747,7 +12747,7 @@ Durability: 30
 GoldCost: 250
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 245
 Pic: 509
 Resourse: (4)
@@ -12773,7 +12773,7 @@ Durability: 50
 GoldCost: 450
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 510
 Resourse: (4, 5)
@@ -12803,7 +12803,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 20
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 511
 Resourse: (4, 5)
@@ -12829,7 +12829,7 @@ Durability: 40
 GoldCost: 350
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 512
 Resourse: (1, 7)
@@ -12859,7 +12859,7 @@ Durability: 60
 GoldCost: 400
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 513
 Resourse: (5, 7)
@@ -12889,7 +12889,7 @@ Durability: 1
 GoldCost: 3750
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 514
 Resourse: (0)
@@ -12907,7 +12907,7 @@ Durability: 35
 GoldCost: 300
 GemCost: 35
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 515
 Resourse: (9)
@@ -12929,7 +12929,7 @@ Durability: 40
 GoldCost: 450
 GemCost: 50
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 516
 Resourse: (5)
@@ -12955,7 +12955,7 @@ Durability: 1
 GoldCost: 500
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 244
 Pic: 517
 Resourse: (4, 7)
@@ -12977,7 +12977,7 @@ Durability: 30
 GoldCost: 300
 GemCost: 40
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 518
 Resourse: (5)
@@ -12999,7 +12999,7 @@ Durability: 55
 GoldCost: 800
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 243
 Pic: 519
 Resourse: (5, 8)
@@ -13037,7 +13037,7 @@ Durability: 1
 GoldCost: 650
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 520
 Resourse: (5, 9)
@@ -13059,7 +13059,7 @@ Durability: 55
 GoldCost: 800
 GemCost: 40
 ShopLevel: 6
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 521
 Resourse: (7, 5, 5)
@@ -13089,7 +13089,7 @@ Durability: 35
 GoldCost: 250
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 522
 Resourse: (9, 9)
@@ -13111,7 +13111,7 @@ Durability: 15
 GoldCost: 550
 GemCost: 35
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 523
 Resourse: (4)
@@ -13133,7 +13133,7 @@ Durability: 50
 GoldCost: 800
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 524
 Resourse: (1, 7)
@@ -13167,7 +13167,7 @@ Durability: 50
 GoldCost: 900
 GemCost: 55
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 246
 Pic: 525
 Resourse: (7, 7, 5)
@@ -13193,7 +13193,7 @@ Durability: 20
 GoldCost: 800
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 526
 Resourse: (9)
@@ -13223,7 +13223,7 @@ Durability: 30
 GoldCost: 1000
 GemCost: 80
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 527
 Resourse: (5, 8, 9)
@@ -13253,7 +13253,7 @@ Durability: 70
 GoldCost: 600
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 528
 Resourse: (7, 9)
@@ -13283,7 +13283,7 @@ Durability: 60
 GoldCost: 180
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 529
 Resourse: (1, 2)
@@ -13313,7 +13313,7 @@ Durability: 50
 GoldCost: 200
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 530
 Resourse: (1, 2)
@@ -13343,7 +13343,7 @@ Durability: 60
 GoldCost: 120
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 531
 Resourse: (1, 4)
@@ -13373,7 +13373,7 @@ Durability: 70
 GoldCost: 200
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 532
 Resourse: (1, 2)
@@ -13403,7 +13403,7 @@ Durability: 1
 GoldCost: 1500
 GemCost: 140
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 244
 Pic: 533
 Resourse: (5, 5)
@@ -13437,7 +13437,7 @@ Durability: 35
 GoldCost: 350
 GemCost: 60
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 534
 Resourse: (9)
@@ -13463,7 +13463,7 @@ Durability: 80
 GoldCost: 550
 GemCost: 55
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 249
 Pic: 535
 Resourse: (5, 7)
@@ -13497,7 +13497,7 @@ Durability: 100
 GoldCost: 280
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 536
 Resourse: (7)
@@ -13527,7 +13527,7 @@ Durability: 70
 GoldCost: 300
 GemCost: 50
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 537
 Resourse: (5, 7)
@@ -13557,7 +13557,7 @@ Durability: 40
 GoldCost: 200
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 538
 Resourse: (7)
@@ -13583,7 +13583,7 @@ Durability: 60
 GoldCost: 380
 GemCost: 20
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 539
 Resourse: (1, 7)
@@ -13609,7 +13609,7 @@ Durability: 70
 GoldCost: 550
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 540
 Resourse: (7, 5)
@@ -13643,7 +13643,7 @@ Durability: 35
 GoldCost: 600
 GemCost: 20
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 541
 Resourse: (5, 7)
@@ -13673,7 +13673,7 @@ Durability: 50
 GoldCost: 280
 GemCost: 0
 ShopLevel: 8
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 542
 Resourse: (1, 1)
@@ -13703,7 +13703,7 @@ Durability: 1
 GoldCost: 600
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 543
 Resourse: (5, 8)
@@ -13729,7 +13729,7 @@ Durability: 60
 GoldCost: 1300
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 247
 Pic: 544
 Resourse: (7, 7, 8)
@@ -13767,7 +13767,7 @@ Durability: 90
 GoldCost: 1000
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 249
 Pic: 545
 Resourse: (7, 7, 9)
@@ -13797,7 +13797,7 @@ Durability: 65
 GoldCost: 400
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 546
 Resourse: (7, 7)
@@ -13827,7 +13827,7 @@ Durability: 50
 GoldCost: 500
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 547
 Resourse: (7)
@@ -13857,7 +13857,7 @@ Durability: 80
 GoldCost: 700
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 548
 Resourse: (5, 7)
@@ -13887,7 +13887,7 @@ Durability: 100
 GoldCost: 1200
 GemCost: 10
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 242
 Pic: 549
 Resourse: (2, 7, 9)
@@ -13917,7 +13917,7 @@ Durability: 15
 GoldCost: 550
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 550
 Resourse: (4, 5, 8)
@@ -13943,7 +13943,7 @@ Durability: 25
 GoldCost: 200
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 551
 Resourse: (7, 9)
@@ -13969,7 +13969,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 552
 Resourse: (4, 5)
@@ -13995,7 +13995,7 @@ Durability: 35
 GoldCost: 650
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 553
 Resourse: (5, 5, 8)
@@ -14021,7 +14021,7 @@ Durability: 35
 GoldCost: 300
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 554
 Resourse: (4)
@@ -14047,7 +14047,7 @@ Durability: 40
 GoldCost: 40
 GemCost: 0
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 1
 Pic: 555
 Resourse: (0)
@@ -14081,7 +14081,7 @@ Durability: 40
 GoldCost: 130
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 142
 Pic: 556
 Resourse: (0)
@@ -14115,7 +14115,7 @@ Durability: 40
 GoldCost: 300
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 557
 Resourse: (1)
@@ -14149,7 +14149,7 @@ Durability: 1
 GoldCost: 90
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 558
 Resourse: (0)
@@ -14167,7 +14167,7 @@ Durability: 1
 GoldCost: 55
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 559
 Resourse: (0)
@@ -14185,7 +14185,7 @@ Durability: 10
 GoldCost: 150
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 638
 Resourse: (4)
@@ -14203,7 +14203,7 @@ Durability: 1
 GoldCost: 75
 GemCost: 8
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 561
 Resourse: (2)
@@ -14221,7 +14221,7 @@ Durability: 1
 GoldCost: 150
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 562
 Resourse: (1, 4)
@@ -14239,7 +14239,7 @@ Durability: 1
 GoldCost: 600
 GemCost: 90
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 563
 Resourse: (4, 5, 5)
@@ -14257,7 +14257,7 @@ Durability: 1
 GoldCost: 750
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 564
 Resourse: (5, 5, 9)
@@ -14275,7 +14275,7 @@ Durability: 1
 GoldCost: 145
 GemCost: 8
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 565
 Resourse: (1, 2, 4)
@@ -14293,7 +14293,7 @@ Durability: 1
 GoldCost: 220
 GemCost: 25
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 566
 Resourse: (2, 4)
@@ -14311,7 +14311,7 @@ Durability: 1
 GoldCost: 540
 GemCost: 35
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 567
 Resourse: (1, 4, 7)
@@ -14329,7 +14329,7 @@ Durability: 1
 GoldCost: 630
 GemCost: 45
 ShopLevel: 3
-Rarity: 0
+Rarity: 4
 Building: 261
 Pic: 568
 Resourse: (5, 9, 9)
@@ -14347,7 +14347,7 @@ Durability: 1
 GoldCost: 330
 GemCost: 37
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 569
 Resourse: (4, 4)
@@ -14365,7 +14365,7 @@ Durability: 1
 GoldCost: 750
 GemCost: 15
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 570
 Resourse: (1, 1, 7)
@@ -14383,7 +14383,7 @@ Durability: 1
 GoldCost: 1500
 GemCost: 300
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 571
 Resourse: (2, 7, 7)
@@ -14401,7 +14401,7 @@ Durability: 1
 GoldCost: 0
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 8
 Building: 251
 Pic: 572
 Resourse: (0)
@@ -14419,7 +14419,7 @@ Durability: 1
 GoldCost: 15
 GemCost: 0
 ShopLevel: 2
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 573
 Resourse: (0)
@@ -14437,7 +14437,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 245
 Pic: 574
 Resourse: (4, 7)
@@ -14463,7 +14463,7 @@ Durability: 45
 GoldCost: 300
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 575
 Resourse: (4, 5)
@@ -14489,7 +14489,7 @@ Durability: 30
 GoldCost: 400
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 576
 Resourse: (4, 5)
@@ -14515,7 +14515,7 @@ Durability: 35
 GoldCost: 300
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 577
 Resourse: (1, 4)
@@ -14541,7 +14541,7 @@ Durability: 80
 GoldCost: 750
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 247
 Pic: 578
 Resourse: (7, 7, 8)
@@ -14563,7 +14563,7 @@ Durability: 70
 GoldCost: 2000
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 579
 Resourse: (7, 7, 7, 9)
@@ -14601,7 +14601,7 @@ Durability: 60
 GoldCost: 600
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 580
 Resourse: (7, 9)
@@ -14639,7 +14639,7 @@ Durability: 60
 GoldCost: 1000
 GemCost: 30
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 581
 Resourse: (7, 7, 8)
@@ -14673,7 +14673,7 @@ Durability: 60
 GoldCost: 250
 GemCost: 55
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 243
 Pic: 583
 Resourse: (5, 9)
@@ -14707,7 +14707,7 @@ Durability: 75
 GoldCost: 1800
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 582
 Resourse: (7, 5, 8)
@@ -14745,7 +14745,7 @@ Durability: 100
 GoldCost: 1450
 GemCost: 100
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 584
 Resourse: (7, 9, 9)
@@ -14775,7 +14775,7 @@ Durability: 1
 GoldCost: 500
 GemCost: 6
 ShopLevel: 5
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 585
 Resourse: (0)
@@ -14793,7 +14793,7 @@ Durability: 1
 GoldCost: 3500
 GemCost: 500
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 586
 Resourse: (5, 7, 8, 8)
@@ -14815,7 +14815,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 120
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 587
 Resourse: (5, 9, 9)
@@ -14833,7 +14833,7 @@ Durability: 1
 GoldCost: 165
 GemCost: 30
 ShopLevel: 3
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 588
 Resourse: (4, 5)
@@ -14851,7 +14851,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 10
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 220
 Pic: 589
 Resourse: (0)
@@ -14869,7 +14869,7 @@ Durability: 1
 GoldCost: 1500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 590
 Resourse: (5, 8)
@@ -14887,7 +14887,7 @@ Durability: 60
 GoldCost: 1600
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 591
 Resourse: (7, 7, 8, 8)
@@ -14921,7 +14921,7 @@ Durability: 50
 GoldCost: 900
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 592
 Resourse: (7, 7, 8)
@@ -14951,7 +14951,7 @@ Durability: 80
 GoldCost: 2200
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 593
 Resourse: (2, 7, 8)
@@ -14985,7 +14985,7 @@ Durability: 20
 GoldCost: 500
 GemCost: 30
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 594
 Resourse: (7, 5, 8)
@@ -15007,7 +15007,7 @@ Durability: 60
 GoldCost: 550
 GemCost: 45
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 595
 Resourse: (7, 8)
@@ -15041,7 +15041,7 @@ Durability: 50
 GoldCost: 600
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 247
 Pic: 596
 Resourse: (7, 5, 8)
@@ -15075,7 +15075,7 @@ Durability: 55
 GoldCost: 1000
 GemCost: 50
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 597
 Resourse: (7, 8)
@@ -15109,7 +15109,7 @@ Durability: 1
 GoldCost: 600
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 598
 Resourse: (8, 8)
@@ -15127,7 +15127,7 @@ Durability: 1
 GoldCost: 2500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 599
 Resourse: (5, 8, 9)
@@ -15149,7 +15149,7 @@ Durability: 1
 GoldCost: 2500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 600
 Resourse: (5, 8, 9)
@@ -15171,7 +15171,7 @@ Durability: 1
 GoldCost: 2500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 601
 Resourse: (5, 8, 9)
@@ -15193,7 +15193,7 @@ Durability: 1
 GoldCost: 2500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 602
 Resourse: (5, 8, 9)
@@ -15215,7 +15215,7 @@ Durability: 1
 GoldCost: 2500
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 603
 Resourse: (5, 8, 9)
@@ -15245,7 +15245,7 @@ Durability: 1
 GoldCost: 2000
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 604
 Resourse: (5, 8, 9)
@@ -15271,7 +15271,7 @@ Durability: 1
 GoldCost: 700
 GemCost: 20
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 605
 Resourse: (5, 8)
@@ -15297,7 +15297,7 @@ Durability: 50
 GoldCost: 1000
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 606
 Resourse: (7, 5, 8)
@@ -15331,7 +15331,7 @@ Durability: 35
 GoldCost: 1000
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 246
 Pic: 607
 Resourse: (5, 5, 8)
@@ -15357,7 +15357,7 @@ Durability: 70
 GoldCost: 1200
 GemCost: 90
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 248
 Pic: 608
 Resourse: (2, 8)
@@ -15391,7 +15391,7 @@ Durability: 40
 GoldCost: 600
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 609
 Resourse: (7, 5)
@@ -15417,7 +15417,7 @@ Durability: 50
 GoldCost: 450
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 610
 Resourse: (7, 7, 5)
@@ -15447,7 +15447,7 @@ Durability: 55
 GoldCost: 600
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 611
 Resourse: (5, 9)
@@ -15485,7 +15485,7 @@ Durability: 40
 GoldCost: 800
 GemCost: 110
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 248
 Pic: 612
 Resourse: (5, 8, 9)
@@ -15511,7 +15511,7 @@ Durability: 50
 GoldCost: 800
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 613
 Resourse: (7, 8)
@@ -15537,7 +15537,7 @@ Durability: 60
 GoldCost: 500
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 246
 Pic: 614
 Resourse: (7, 9, 8)
@@ -15571,7 +15571,7 @@ Durability: 1
 GoldCost: 800
 GemCost: 450
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 244
 Pic: 615
 Resourse: (5, 8, 9)
@@ -15597,7 +15597,7 @@ Durability: 1
 GoldCost: 175
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 616
 Resourse: (0)
@@ -15615,7 +15615,7 @@ Durability: 1
 GoldCost: 1200
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 617
 Resourse: (5, 8, 9)
@@ -15637,7 +15637,7 @@ Durability: 40
 GoldCost: 1000
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 248
 Pic: 618
 Resourse: (5, 8, 9)
@@ -15675,7 +15675,7 @@ Durability: 1
 GoldCost: 1100
 GemCost: 100
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 619
 Resourse: (5, 8, 9)
@@ -15693,7 +15693,7 @@ Durability: 20
 GoldCost: 400
 GemCost: 50
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 620
 Resourse: (5, 9)
@@ -15719,7 +15719,7 @@ Durability: 30
 GoldCost: 500
 GemCost: 60
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 621
 Resourse: (5, 9)
@@ -15745,7 +15745,7 @@ Durability: 30
 GoldCost: 1200
 GemCost: 90
 ShopLevel: 6
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 622
 Resourse: (5, 8, 9)
@@ -15775,7 +15775,7 @@ Durability: 50
 GoldCost: 500
 GemCost: 40
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 623
 Resourse: (4, 5, 8)
@@ -15801,7 +15801,7 @@ Durability: 15
 GoldCost: 450
 GemCost: 25
 ShopLevel: 5
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 624
 Resourse: (4, 5, 5)
@@ -15831,7 +15831,7 @@ Durability: 35
 GoldCost: 300
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 625
 Resourse: (4, 4)
@@ -15853,7 +15853,7 @@ Durability: 1
 GoldCost: 90
 GemCost: 16
 ShopLevel: 1
-Rarity: 0
+Rarity: 2
 Building: 0
 Pic: 626
 Resourse: (4, 4)
@@ -15871,7 +15871,7 @@ Durability: 1
 GoldCost: 200
 GemCost: 50
 ShopLevel: 2
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 627
 Resourse: (4, 5, 5)
@@ -15889,7 +15889,7 @@ Durability: 1
 GoldCost: 540
 GemCost: 150
 ShopLevel: 3
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 628
 Resourse: (5, 5, 9)
@@ -15907,7 +15907,7 @@ Durability: 1
 GoldCost: 660
 GemCost: 150
 ShopLevel: 4
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 629
 Resourse: (5, 9, 9)
@@ -15925,7 +15925,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 630
 Resourse: (5)
@@ -15943,7 +15943,7 @@ Durability: 50
 GoldCost: 300
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 4
 Building: 0
 Pic: 631
 Resourse: (2, 2)
@@ -15969,7 +15969,7 @@ Durability: 40
 GoldCost: 25
 GemCost: 5
 ShopLevel: 1
-Rarity: 0
+Rarity: 1
 Building: 2
 Pic: 632
 Resourse: (1)
@@ -15991,7 +15991,7 @@ Durability: 10
 GoldCost: 200
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 1
 Building: 185
 Pic: 633
 Resourse: (0)
@@ -16017,7 +16017,7 @@ Durability: 1
 GoldCost: 30
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 634
 Resourse: (0)
@@ -16035,7 +16035,7 @@ Durability: 1
 GoldCost: 75
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 635
 Resourse: (2, 3)
@@ -16053,7 +16053,7 @@ Durability: 1
 GoldCost: 300
 GemCost: 0
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 636
 Resourse: (1, 4)
@@ -16071,7 +16071,7 @@ Durability: 1
 GoldCost: 750
 GemCost: 0
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 637
 Resourse: (7, 5)
@@ -16089,7 +16089,7 @@ Durability: 70
 GoldCost: 2100
 GemCost: 140
 ShopLevel: 6
-Rarity: 0
+Rarity: 6
 Building: 0
 Pic: 654
 Resourse: (5, 8, 9)
@@ -16127,7 +16127,7 @@ Durability: 1
 GoldCost: 55
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 560
 Resourse: (0)
@@ -16145,7 +16145,7 @@ Durability: 30
 GoldCost: 100
 GemCost: 30
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 0
 Pic: 655
 Resourse: (5, 5)
@@ -16171,7 +16171,7 @@ Durability: 1
 GoldCost: 360
 GemCost: 37
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 651
 Resourse: (1, 5)
@@ -16189,7 +16189,7 @@ Durability: 1
 GoldCost: 270
 GemCost: 70
 ShopLevel: 5
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 652
 Resourse: (5, 5)
@@ -16207,7 +16207,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 115
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 653
 Resourse: (5, 8)
@@ -16225,7 +16225,7 @@ Durability: 1
 GoldCost: 40
 GemCost: 7
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 656
 Resourse: (0)
@@ -16243,7 +16243,7 @@ Durability: 1
 GoldCost: 150
 GemCost: 45
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 657
 Resourse: (1, 4)
@@ -16261,7 +16261,7 @@ Durability: 1
 GoldCost: 190
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 658
 Resourse: (1, 2)
@@ -16279,7 +16279,7 @@ Durability: 1
 GoldCost: 375
 GemCost: 150
 ShopLevel: 6
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 659
 Resourse: (7, 7, 6)
@@ -16297,7 +16297,7 @@ Durability: 25
 GoldCost: 25
 GemCost: 5
 ShopLevel: 2
-Rarity: 0
+Rarity: 1
 Building: 33
 Pic: 648
 Resourse: (1)
@@ -16327,7 +16327,7 @@ Durability: 20
 GoldCost: 50
 GemCost: 40
 ShopLevel: 4
-Rarity: 0
+Rarity: 3
 Building: 103
 Pic: 649
 Resourse: (5)
@@ -16353,7 +16353,7 @@ Durability: 50
 GoldCost: 110
 GemCost: 10
 ShopLevel: 3
-Rarity: 0
+Rarity: 1
 Building: 33
 Pic: 650
 Resourse: (1)
@@ -16379,7 +16379,7 @@ Durability: 1
 GoldCost: 450
 GemCost: 75
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 647
 Resourse: (5, 5, 9)
@@ -16397,7 +16397,7 @@ Durability: 1
 GoldCost: 40
 GemCost: 0
 ShopLevel: 3
-Rarity: 0
+Rarity: 3
 Building: 165
 Pic: 639
 Resourse: (2)
@@ -16415,7 +16415,7 @@ Durability: 1
 GoldCost: 105
 GemCost: 0
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 271
 Pic: 640
 Resourse: (0)
@@ -16433,7 +16433,7 @@ Durability: 1
 GoldCost: 20
 GemCost: 5
 ShopLevel: 3
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 641
 Resourse: (0)
@@ -16451,7 +16451,7 @@ Durability: 1
 GoldCost: 90
 GemCost: 18
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 642
 Resourse: (1)
@@ -16469,7 +16469,7 @@ Durability: 1
 GoldCost: 115
 GemCost: 15
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 643
 Resourse: (2)
@@ -16487,7 +16487,7 @@ Durability: 1
 GoldCost: 65
 GemCost: 19
 ShopLevel: 4
-Rarity: 0
+Rarity: 8
 Building: 0
 Pic: 644
 Resourse: (5)
@@ -16505,7 +16505,7 @@ Durability: 70
 GoldCost: 750
 GemCost: 100
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 645
 Resourse: (5, 5, 9)
@@ -16543,7 +16543,7 @@ Durability: 1
 GoldCost: 850
 GemCost: 80
 ShopLevel: 5
-Rarity: 0
+Rarity: 5
 Building: 0
 Pic: 646
 Resourse: (9)
@@ -16560,8 +16560,8 @@ Class: 0
 Durability: 1
 GoldCost: 4000
 GemCost: 300
-ShopLevel: 1
-Rarity: 1
+ShopLevel: 6
+Rarity: 5
 Building: 0
 Pic: 660
 Resourse: (0)
@@ -16578,10 +16578,10 @@ Class: 0
 Durability: 1
 GoldCost: 1400
 GemCost: 250
-ShopLevel: 1
-Rarity: 1
+ShopLevel: 6
+Rarity: 5
 Building: 0
-Pic: 663
+Pic: 661
 Resourse: (0)
 Effects:
 
@@ -16596,10 +16596,10 @@ Class: 0
 Durability: 1
 GoldCost: 1000
 GemCost: 120
-ShopLevel: 1
-Rarity: 1
+ShopLevel: 6
+Rarity: 5
 Building: 0
-Pic: 664
+Pic: 662
 Resourse: (0)
 Effects:
 
@@ -16614,8 +16614,8 @@ Class: 0
 Durability: 1
 GoldCost: 3000
 GemCost: 300
-ShopLevel: 1
-Rarity: 1
+ShopLevel: 6
+Rarity: 5
 Building: 0
 Pic: 501
 Resourse: (0)
@@ -16632,10 +16632,10 @@ Class: 0
 Durability: 1
 GoldCost: 2200
 GemCost: 100
-ShopLevel: 1
-Rarity: 1
+ShopLevel: 6
+Rarity: 5
 Building: 0
-Pic: 665
+Pic: 663
 Resourse: (0)
 Effects:
 
@@ -16650,10 +16650,10 @@ Class: 0
 Durability: 1
 GoldCost: 2400
 GemCost: 220
-ShopLevel: 1
-Rarity: 1
+ShopLevel: 6
+Rarity: 5
 Building: 0
-Pic: 666
+Pic: 664
 Resourse: (0)
 Effects:
 
