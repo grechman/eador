@@ -2,8 +2,6 @@
 /*
 !/.gitignore
 !/README.md
-!/cheat
-!/cheat/**
 !/var
 /var/*
 !/var/unit.var

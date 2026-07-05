@@ -16556,7 +16556,7 @@ Area: 0;
 /657
 Name: Игла смерти;
 Slot: 0
-Class: 11
+Class: 0
 Durability: 1
 GoldCost: 1
 GemCost: 0
@@ -16574,14 +16574,14 @@ Area: 0;
 /658
 Name: Свиток оракула стихий;
 Slot: 0
-Class: 11
+Class: 0
 Durability: 1
 GoldCost: 1
 GemCost: 0
 ShopLevel: 1
 Rarity: 1
 Building: 0
-Pic: 629
+Pic: 663
 Resourse: (0)
 Effects:
 
@@ -16592,14 +16592,14 @@ Area: 0;
 /659
 Name: Свиток умертвия;
 Slot: 0
-Class: 11
+Class: 0
 Durability: 1
 GoldCost: 1
 GemCost: 0
 ShopLevel: 1
 Rarity: 1
 Building: 0
-Pic: 616
+Pic: 664
 Resourse: (0)
 Effects:
 
@@ -16610,7 +16610,7 @@ Area: 0;
 /660
 Name: Вечное царство;
 Slot: 0
-Class: 11
+Class: 0
 Durability: 1
 GoldCost: 1
 GemCost: 0
@@ -16628,14 +16628,14 @@ Area: 0;
 /661
 Name: Свиток Прародителя;
 Slot: 0
-Class: 11
+Class: 0
 Durability: 1
 GoldCost: 1
 GemCost: 0
 ShopLevel: 1
 Rarity: 1
 Building: 0
-Pic: 637
+Pic: 665
 Resourse: (0)
 Effects:
 
@@ -16646,14 +16646,14 @@ Area: 0;
 /662
 Name: Свиток Великого Крысса;
 Slot: 0
-Class: 11
+Class: 0
 Durability: 1
 GoldCost: 1
 GemCost: 0
 ShopLevel: 1
 Rarity: 1
 Building: 0
-Pic: 636
+Pic: 666
 Resourse: (0)
 Effects:
 

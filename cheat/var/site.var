@@ -1,4 +1,4 @@
-Quantity: 144
+Quantity: 145
 
 /0
 Name: Пусто;
@@ -2082,7 +2082,7 @@ Param2: 300;
 
 /36
 Name: Лавка кольчуг;
-MinLevel: 1
+MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
@@ -2099,12 +2099,12 @@ CanEnter: 1
 SelfDestroy: 1
 
 Terrain:
-Plain: 10
-Forest: 10
-Hill: 10
-Swamp: 10
-Desert: 10
-Tundra: 10
+Plain: 1
+Forest: 1
+Hill: 2
+Swamp: 1
+Desert: 0
+Tundra: 0
 
 Guards:
 Guard: 9
@@ -2125,8 +2125,8 @@ Param1: 3
 Param2: 0
 
 Ability: 13
-Param1: 11
-Param2: 6
+Param1: 7
+Param2: 4
 
 Ability: 14
 Param1: 9
@@ -2287,7 +2287,7 @@ Param2: 300;
 
 /40
 Name: Лавка знаний;
-MinLevel: 1
+MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 1
@@ -2304,12 +2304,12 @@ CanEnter: 1
 SelfDestroy: 1
 
 Terrain:
-Plain: 10
-Forest: 10
-Hill: 10
-Swamp: 10
-Desert: 10
-Tundra: 10
+Plain: 1
+Forest: 1
+Hill: 1
+Swamp: 2
+Desert: 0
+Tundra: 0
 
 Guards:
 Guard: 19
@@ -2343,7 +2343,7 @@ Param2: 0
 
 Ability: 13
 Param1: 10
-Param2: 7
+Param2: 4
 
 Ability: 14
 Param1: 9
@@ -7050,7 +7050,7 @@ Param2: 0;
 
 /144
 Name: Небесный шпиль;
-MinLevel: 1
+MinLevel: 5
 MaxLevel: 12
 Guarded: 100
 Place: 2
@@ -7067,12 +7067,12 @@ CanEnter: 0
 SelfDestroy: 1
 
 Terrain:
-Plain: 10
-Forest: 10
-Hill: 10
-Swamp: 10
-Desert: 10
-Tundra: 10
+Plain: 3
+Forest: 3
+Hill: 3
+Swamp: 3
+Desert: 1
+Tundra: 2
 
 Guards:
 Guard: 167
@@ -7086,3 +7086,38 @@ Param2: 5
 Ability: 23
 Param1: 30
 Param2: -18;
+
+/145
+Name: Тайник;
+MinLevel: 1
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Difficult: 0
+Event: 2
+Dialog: 2452
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 10
+Forest: 10
+Hill: 10
+Swamp: 10
+Desert: 10
+Tundra: 10
+
+Guards:
+Guard: 168
+Poss: 1;
+
+Ability:
+Ability: 3
+Param1: 1
+Param2: 5;
