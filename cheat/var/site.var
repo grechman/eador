@@ -1,4 +1,4 @@
-Quantity: 146
+Quantity: 147
 
 /0
 Name: Пусто;
@@ -7123,7 +7123,7 @@ Param1: 20
 Param2: -18;
 
 /146
-Name: Тайник заклинаний;
+Name: Тайник существ;
 MinLevel: 1
 MaxLevel: 12
 Guarded: 100
@@ -7150,6 +7150,41 @@ Tundra: 12
 
 Guards:
 Guard: 169
+Poss: 1;
+
+Ability:
+Ability: 23
+Param1: 20
+Param2: -18;
+
+/147
+Name: Тайник заклинаний;
+MinLevel: 1
+MaxLevel: 12
+Guarded: 100
+Place: 1
+Difficult: 0
+Event: 2
+Dialog: 2454
+Dialog2: 0
+Treasure: 0
+Coastal: 0
+WorkHide: 0
+WorkGuard: 1
+WorkFree: 0
+CanEnter: 0
+SelfDestroy: 1
+
+Terrain:
+Plain: 12
+Forest: 12
+Hill: 12
+Swamp: 12
+Desert: 12
+Tundra: 12
+
+Guards:
+Guard: 170
 Poss: 1;
 
 Ability:

@@ -1,4 +1,4 @@
-Quantity: 500
+Quantity: 501
 
 /0 Пусто
 Quantity: 5/1
@@ -7146,16 +7146,24 @@ Quantity: 2/1
 Initiative: 0/0
 Unit1: 1, 2, 2, 2;
 LootPoss: 100
-MaxLoot: 12
+MaxLoot: 3
 Power: 1
 Item1: 657, 1
 Item2: 658, 1
-Item3: 659, 1
-Item4: 660, 1
-Item5: 661, 1
-Item6: 662, 1;
+Item3: 659, 1;
 
-/500 Тайник заклинаний
+/500 Тайник существ
+Quantity: 2/1
+Initiative: 0/0
+Unit1: 1, 2, 2, 2;
+LootPoss: 100
+MaxLoot: 3
+Power: 1
+Item1: 660, 1
+Item2: 661, 1
+Item3: 662, 1;
+
+/501 Тайник заклинаний
 Quantity: 2/1
 Initiative: 0/0
 Unit1: 1, 2, 2, 2;
