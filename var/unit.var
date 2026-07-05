@@ -93,7 +93,7 @@ ShootingRange: 0
 Ammo: 0
 Stamina: 10
 Morale: 9
-Exp: 400000
+Exp: 10
 ExpMod: 35
 GoldPrice: 13
 GemPrice: 0
