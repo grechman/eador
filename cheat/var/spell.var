@@ -38,7 +38,7 @@ Name: Магическая искра;
 Cost: 0
 LifeCost: 0
 StamCost: 1
-ItemLevel: 0
+ItemLevel: 8
 Level: 0
 PowerMod: 100
 DurationMod: 0
@@ -75,7 +75,7 @@ Name: Усталость;
 Cost: 0
 LifeCost: 0
 StamCost: 1
-ItemLevel: 0
+ItemLevel: 8
 Level: 0
 PowerMod: 50
 DurationMod: 0
@@ -108,7 +108,7 @@ Name: Воодушевление;
 Cost: 0
 LifeCost: 0
 StamCost: 1
-ItemLevel: 0
+ItemLevel: 8
 Level: 0
 PowerMod: 100
 DurationMod: 0
@@ -145,7 +145,7 @@ Name: Тройное лезвие;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 70
 DurationMod: 0
@@ -178,7 +178,7 @@ Name: Волшебная броня;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -215,7 +215,7 @@ Name: Волшебное оружие;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -260,7 +260,7 @@ Name: Встречный ветер;
 Cost: 3
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -301,7 +301,7 @@ Name: Ускорение;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -338,7 +338,7 @@ Name: Воздушный щит;
 Cost: 1
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -375,7 +375,7 @@ Name: Сглаз;
 Cost: 2
 LifeCost: 1
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -421,7 +421,7 @@ Name: Благословение;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 35
 DurationMod: 0
@@ -474,7 +474,7 @@ Name: Лечение;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -507,7 +507,7 @@ Name: Страх;
 Cost: 3
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 50
 DurationMod: 0
@@ -540,7 +540,7 @@ Name: Подъятие скелета;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -573,7 +573,7 @@ Name: Подъятие зомби;
 Cost: 6
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -606,7 +606,7 @@ Name: Снятие чар;
 Cost: 1
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 0
@@ -639,7 +639,7 @@ Name: Астральная энергия;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -676,7 +676,7 @@ Name: Паутина;
 Cost: 3
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 35
@@ -709,7 +709,7 @@ Name: Вызов беса;
 Cost: 5
 LifeCost: 3
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -742,7 +742,7 @@ Name: Сожжение снарядов;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -775,7 +775,7 @@ Name: Уязвимость;
 Cost: 1
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -816,7 +816,7 @@ Name: Молния;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -853,7 +853,7 @@ Name: Взрыв;
 Cost: 13
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -890,7 +890,7 @@ Name: Огненный клинок;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -939,7 +939,7 @@ Name: Фантомная форма;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -992,7 +992,7 @@ Name: Сон;
 Cost: 6
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -1033,7 +1033,7 @@ Name: Галлюцинации;
 Cost: 9
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -1066,7 +1066,7 @@ Name: Подъятие упыря;
 Cost: 15
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -1099,7 +1099,7 @@ Name: Вампиризм;
 Cost: 12
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -1136,7 +1136,7 @@ Name: Чахотка;
 Cost: 6
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -1193,7 +1193,7 @@ Name: Создание горгульи;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -1226,7 +1226,7 @@ Name: Каменный дождь;
 Cost: 11
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -1267,7 +1267,7 @@ Name: Камнекожа;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -1308,7 +1308,7 @@ Name: Вызов чёрта;
 Cost: 13
 LifeCost: 6
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -1341,7 +1341,7 @@ Name: Вызов адской гончей;
 Cost: 12
 LifeCost: 4
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -1374,7 +1374,7 @@ Name: Слепота;
 Cost: 9
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -1415,7 +1415,7 @@ Name: Исцеление;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -1452,7 +1452,7 @@ Name: Экзорцизм;
 Cost: 8
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 200
 DurationMod: 0
@@ -1493,7 +1493,7 @@ Name: Слово Жизни;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -1542,7 +1542,7 @@ Name: Слово Льда;
 Cost: 15
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -1595,7 +1595,7 @@ Name: Кислота;
 Cost: 18
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -1636,7 +1636,7 @@ Name: Общее замедление;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -1669,7 +1669,7 @@ Name: Тёмный Пакт;
 Cost: 15
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -1702,7 +1702,7 @@ Name: Пламя Хаоса;
 Cost: 20
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 300
 DurationMod: 0
@@ -1739,7 +1739,7 @@ Name: Вызов демона;
 Cost: 30
 LifeCost: 10
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -1772,7 +1772,7 @@ Name: Телепорт;
 Cost: 10
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -1805,7 +1805,7 @@ Name: Антимагия;
 Cost: 10
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -1842,7 +1842,7 @@ Name: Общее снятие чар;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 2
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 0
@@ -1875,7 +1875,7 @@ Name: Воскрешение;
 Cost: 25
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 500
 DurationMod: 0
@@ -1908,7 +1908,7 @@ Name: Общая защита;
 Cost: 25
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -1949,7 +1949,7 @@ Name: Общее лечение;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -1982,7 +1982,7 @@ Name: Слово Власти;
 Cost: 18
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 50
 DurationMod: 0
@@ -2015,7 +2015,7 @@ Name: Общее ускорение;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -2048,7 +2048,7 @@ Name: Животный натиск;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 25
@@ -2097,7 +2097,7 @@ Name: Подъятие призрака;
 Cost: 45
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -2130,7 +2130,7 @@ Name: Общее проклятие;
 Cost: 15
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -2183,7 +2183,7 @@ Name: Похищение жизни;
 Cost: 25
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -2224,7 +2224,7 @@ Name: Белая магия;
 Cost: 45
 LifeCost: 15
 StamCost: 6
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -2261,7 +2261,7 @@ Name: Реинкарнация;
 Cost: 30
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 200
@@ -2294,7 +2294,7 @@ Name: Неуязвимость;
 Cost: 25
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 50
@@ -2335,7 +2335,7 @@ Name: Подъятие вампира;
 Cost: 50
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -2368,7 +2368,7 @@ Name: Мор;
 Cost: 35
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -2425,7 +2425,7 @@ Name: Облако Ужаса;
 Cost: 40
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -2458,7 +2458,7 @@ Name: Армагеддон;
 Cost: 70
 LifeCost: 0
 StamCost: 7
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 400
 DurationMod: 0
@@ -2495,7 +2495,7 @@ Name: Испепеление;
 Cost: 40
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 450
 DurationMod: 0
@@ -2532,7 +2532,7 @@ Name: Огненная буря;
 Cost: 80
 LifeCost: 0
 StamCost: 9
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 250
 DurationMod: 0
@@ -2569,7 +2569,7 @@ Name: Вызов дьявола;
 Cost: 50
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 75
 DurationMod: 0
@@ -2602,7 +2602,7 @@ Name: Чёрная магия;
 Cost: 70
 LifeCost: 10
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 200
 DurationMod: 0
@@ -2635,7 +2635,7 @@ Name: Порча;
 Cost: 20
 LifeCost: 0
 StamCost: 2
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -2692,7 +2692,7 @@ Name: Остановка времени;
 Cost: 50
 LifeCost: 0
 StamCost: 7
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 0
@@ -2725,7 +2725,7 @@ Name: Форма Дракона;
 Cost: 90
 LifeCost: 0
 StamCost: 7
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -2758,7 +2758,7 @@ Name: Полиморф;
 Cost: 35
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -2791,7 +2791,7 @@ Name: Массовый суицид;
 Cost: 50
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -2824,7 +2824,7 @@ Name: Ментальный раб;
 Cost: 40
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 25
@@ -2857,7 +2857,7 @@ Name: Общий сон;
 Cost: 50
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -2898,7 +2898,7 @@ Name: Создание голема;
 Cost: 35
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -2931,7 +2931,7 @@ Name: Призыв феникса;
 Cost: 100
 LifeCost: 0
 StamCost: 7
-ItemLevel: 6
+ItemLevel: 8
 Level: 4
 PowerMod: 50
 DurationMod: 0
@@ -3079,7 +3079,7 @@ Name: Регенерация нежити;
 Cost: 4
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 1
 PowerMod: 50
 DurationMod: 0
@@ -3317,7 +3317,7 @@ Name: Адский портал;
 Cost: 6
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 0
@@ -3350,7 +3350,7 @@ Name: Суицид;
 Cost: 35
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -3449,7 +3449,7 @@ Name: Излечение;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -3556,7 +3556,7 @@ Name: Призвать рой ос;
 Cost: 5
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 50
@@ -3589,7 +3589,7 @@ Name: Призвать тучу ос;
 Cost: 19
 LifeCost: 0
 StamCost: 2
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 50
@@ -3659,7 +3659,7 @@ Name: Астральный вор;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 50
 DurationMod: 0
@@ -4086,7 +4086,7 @@ Name: Безумие;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -4426,7 +4426,7 @@ Name: Гейзер;
 Cost: 19
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -4590,7 +4590,7 @@ Name: Призыв духа воды;
 Cost: 35
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -4627,7 +4627,7 @@ Name: Ледяное сердце;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -4668,7 +4668,7 @@ Name: Заморозка;
 Cost: 15
 LifeCost: 0
 StamCost: 2
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -4717,7 +4717,7 @@ Name: Ледяная глыба;
 Cost: 8
 LifeCost: 0
 StamCost: 1
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -4783,7 +4783,7 @@ Name: Густой туман;
 Cost: 16
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 50
@@ -4816,7 +4816,7 @@ Name: Двойной выстрел;
 Cost: 10
 LifeCost: 0
 StamCost: 1
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -5075,7 +5075,7 @@ Name: Ядовитый коготь;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -5359,7 +5359,7 @@ Name: Стремительность;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -5396,7 +5396,7 @@ Name: Развеять чары;
 Cost: 1
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 200
 DurationMod: 0
@@ -5429,7 +5429,7 @@ Name: Погибель нечестивых;
 Cost: 6
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -5470,7 +5470,7 @@ Name: Благодать;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -5527,7 +5527,7 @@ Name: Божественная печать;
 Cost: 12
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -5560,7 +5560,7 @@ Name: Броня веры;
 Cost: 8
 LifeCost: 0
 StamCost: 1
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -5593,7 +5593,7 @@ Name: Истинное воскрешение;
 Cost: 25
 LifeCost: 5
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 0
@@ -5626,7 +5626,7 @@ Name: Святилище;
 Cost: 10
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -5679,7 +5679,7 @@ Name: Божественный прыжок;
 Cost: 14
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 0
@@ -5712,7 +5712,7 @@ Name: Божественный свет;
 Cost: 45
 LifeCost: 0
 StamCost: 10
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -5753,7 +5753,7 @@ Name: Святое слово;
 Cost: 65
 LifeCost: 5
 StamCost: 7
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -5786,7 +5786,7 @@ Name: Божественная месть;
 Cost: 40
 LifeCost: 0
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 200
 DurationMod: 0
@@ -5852,7 +5852,7 @@ Name: Вызов виверны;
 Cost: 35
 LifeCost: 0
 StamCost: 6
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -5926,7 +5926,7 @@ Name: Ледяная молния;
 Cost: 18
 LifeCost: 0
 StamCost: 1
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 200
 DurationMod: 0
@@ -5992,7 +5992,7 @@ Name: Прыжок;
 Cost: 10
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -6025,7 +6025,7 @@ Name: Небесный гром;
 Cost: 12
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -6062,7 +6062,7 @@ Name: Цепь молний;
 Cost: 60
 LifeCost: 0
 StamCost: 7
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -6140,7 +6140,7 @@ Name: Медлительность;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -6177,7 +6177,7 @@ Name: Зыбучие пески;
 Cost: 25
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 50
@@ -6214,7 +6214,7 @@ Name: Землетрясение;
 Cost: 50
 LifeCost: 0
 StamCost: 6
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 50
 DurationMod: 0
@@ -6247,7 +6247,7 @@ Name: Огненный дождь;
 Cost: 14
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 50
 DurationMod: 0
@@ -6288,7 +6288,7 @@ Name: Общая огнеупорность;
 Cost: 16
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 200
@@ -6366,7 +6366,7 @@ Name: Призыв духа воздуха;
 Cost: 35
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -6403,7 +6403,7 @@ Name: Призыв духа земли;
 Cost: 35
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -6440,7 +6440,7 @@ Name: Призыв духа огня;
 Cost: 35
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -6477,7 +6477,7 @@ Name: Призыв Живого доспеха;
 Cost: 35
 LifeCost: 0
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -6514,7 +6514,7 @@ Name: Вызов Владыки бездны;
 Cost: 55
 LifeCost: 15
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -6881,7 +6881,7 @@ Name: Стойкий разум;
 Cost: 26
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -7066,7 +7066,7 @@ Name: Левитация;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -7107,7 +7107,7 @@ Name: Объятия Тьмы;
 Cost: 18
 LifeCost: 0
 StamCost: 3
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -7397,7 +7397,7 @@ Name: Благословенный круг;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -7450,7 +7450,7 @@ Name: Призвать Созерцателя;
 Cost: 35
 LifeCost: 0
 StamCost: 4
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -7635,7 +7635,7 @@ Name: Тёмное опустошение;
 Cost: 12
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 200
 DurationMod: 0
@@ -7668,7 +7668,7 @@ Name: Чудесное оружие;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -7713,7 +7713,7 @@ Name: Подъятие жнеца;
 Cost: 12
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -7746,7 +7746,7 @@ Name: Подъятие мумии;
 Cost: 18
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -7779,7 +7779,7 @@ Name: Подъятие кадавра;
 Cost: 30
 LifeCost: 0
 StamCost: 6
-ItemLevel: 5
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -7812,7 +7812,7 @@ Name: Подъятие баньши;
 Cost: 60
 LifeCost: 0
 StamCost: 7
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -7845,7 +7845,7 @@ Name: Тёмное возрождение;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 2
 PowerMod: 500
 DurationMod: 0
@@ -7919,7 +7919,7 @@ Name: Сила титана;
 Cost: 30
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -7956,7 +7956,7 @@ Name: Излечение нежити;
 Cost: 20
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -7989,7 +7989,7 @@ Name: Восстановление нежити;
 Cost: 12
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 50
 DurationMod: 0
@@ -8026,7 +8026,7 @@ Name: Дезинтеграция;
 Cost: 80
 LifeCost: 0
 StamCost: 10
-ItemLevel: 6
+ItemLevel: 8
 Level: 4
 PowerMod: 500
 DurationMod: 0
@@ -8059,7 +8059,7 @@ Name: Вечное рабство;
 Cost: 30
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -8092,7 +8092,7 @@ Name: Глас Смерти;
 Cost: 40
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 50
 DurationMod: 0
@@ -8125,7 +8125,7 @@ Name: Землепроходчество;
 Cost: 30
 LifeCost: 0
 StamCost: 5
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -8166,7 +8166,7 @@ Name: Глас мира;
 Cost: 40
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 50
@@ -8215,7 +8215,7 @@ Name: Ловчая лоза;
 Cost: 10
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -8248,7 +8248,7 @@ Name: Призрачный клинок;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 200
 DurationMod: 0
@@ -8281,7 +8281,7 @@ Name: Высшая сила;
 Cost: 45
 LifeCost: 0
 StamCost: 6
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 1
@@ -8342,7 +8342,7 @@ Name: Героизм;
 Cost: 8
 LifeCost: 0
 StamCost: 1
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -8391,7 +8391,7 @@ Name: Разрушение нежити;
 Cost: 100
 LifeCost: 15
 StamCost: 8
-ItemLevel: 6
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 0
@@ -8424,7 +8424,7 @@ Name: Небесный щит;
 Cost: 10
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -8461,7 +8461,7 @@ Name: Тёмная сталь;
 Cost: 12
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -8547,7 +8547,7 @@ Name: Кошачьи рефлексы;
 Cost: 6
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -8805,7 +8805,7 @@ Name: Массовое осушение;
 Cost: 60
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -8846,7 +8846,7 @@ Name: Кровь демонов;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -8883,7 +8883,7 @@ Name: Общее благословение;
 Cost: 15
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -8936,7 +8936,7 @@ Name: Целебный сон;
 Cost: 35
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 50
@@ -8985,7 +8985,7 @@ Name: Кошмар;
 Cost: 16
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 50
@@ -9034,7 +9034,7 @@ Name: Призвать Разрушителя;
 Cost: 40
 LifeCost: 13
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 75
 DurationMod: 0
@@ -9071,7 +9071,7 @@ Name: Искажение Хаоса;
 Cost: 40
 LifeCost: 18
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 0
@@ -9112,7 +9112,7 @@ Name: Всплеск Хаоса;
 Cost: 5
 LifeCost: 3
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 1
 DurationMod: 0
@@ -9149,7 +9149,7 @@ Name: Адский огонь;
 Cost: 35
 LifeCost: 10
 StamCost: 6
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 1
 DurationMod: 0
@@ -9190,7 +9190,7 @@ Name: Вулкан;
 Cost: 80
 LifeCost: 0
 StamCost: 15
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 150
 DurationMod: 0
@@ -9227,7 +9227,7 @@ Name: Кровавый ритуал;
 Cost: 100
 LifeCost: 35
 StamCost: 12
-ItemLevel: 6
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 0
@@ -9260,7 +9260,7 @@ Name: Подъятие скелета Мрака;
 Cost: 20
 LifeCost: 0
 StamCost: 4
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -9293,7 +9293,7 @@ Name: Подъятие спектра;
 Cost: 45
 LifeCost: 0
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 50
 DurationMod: 0
@@ -9326,7 +9326,7 @@ Name: Бесстрашие;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 1
@@ -9408,7 +9408,7 @@ Name: Обессиливание;
 Cost: 12
 LifeCost: 0
 StamCost: 3
-ItemLevel: 2
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -9441,7 +9441,7 @@ Name: Боевой клич;
 Cost: 10
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -9478,7 +9478,7 @@ Name: Кровавая жертва;
 Cost: 50
 LifeCost: 18
 StamCost: 7
-ItemLevel: 6
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 0
@@ -9511,7 +9511,7 @@ Name: Утяжеление;
 Cost: 12
 LifeCost: 0
 StamCost: 3
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -9548,7 +9548,7 @@ Name: Жуть;
 Cost: 40
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 50
 DurationMod: 0
@@ -9581,7 +9581,7 @@ Name: Прах Смерти;
 Cost: 80
 LifeCost: 0
 StamCost: 10
-ItemLevel: 6
+ItemLevel: 8
 Level: 4
 PowerMod: 150
 DurationMod: 0
@@ -9852,7 +9852,7 @@ Name: Клич некроманта;
 Cost: 40
 LifeCost: 13
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 0
@@ -9885,7 +9885,7 @@ Name: Природное оружие;
 Cost: 6
 LifeCost: 0
 StamCost: 1
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -9934,7 +9934,7 @@ Name: Волшебный клык;
 Cost: 5
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 50
 DurationMod: 0
@@ -10016,7 +10016,7 @@ Name: Подъятие Лорда Мрака;
 Cost: 36
 LifeCost: 0
 StamCost: 4
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -10049,7 +10049,7 @@ Name: Каменная корка;
 Cost: 12
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 50
@@ -10082,7 +10082,7 @@ Name: Общая хладоустойчивость;
 Cost: 18
 LifeCost: 0
 StamCost: 2
-ItemLevel: 4
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 200
@@ -10123,7 +10123,7 @@ Name: Массовое заземление;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 200
@@ -10164,7 +10164,7 @@ Name: Стихийная неуязвимость;
 Cost: 45
 LifeCost: 0
 StamCost: 5
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 100
@@ -10217,7 +10217,7 @@ Name: Помутнение разума;
 Cost: 75
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 0
 DurationMod: 100
@@ -10258,7 +10258,7 @@ Name: Изгнание;
 Cost: 15
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 200
 DurationMod: 0
@@ -10291,7 +10291,7 @@ Name: Создание хнары;
 Cost: 2
 LifeCost: 0
 StamCost: 5
-ItemLevel: 3
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -10324,7 +10324,7 @@ Name: Чудо;
 Cost: 40
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -10361,7 +10361,7 @@ Name: Волшебный поток;
 Cost: 10
 LifeCost: 0
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 200
 DurationMod: 0
@@ -10501,7 +10501,7 @@ Name: Призвать волков;
 Cost: 18
 LifeCost: 0
 StamCost: 5
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 25
 DurationMod: 0
@@ -10538,7 +10538,7 @@ Name: Призвать медведей;
 Cost: 40
 LifeCost: 0
 StamCost: 6
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 75
 DurationMod: 0
@@ -10575,7 +10575,7 @@ Name: Очищающее пламя;
 Cost: 50
 LifeCost: 10
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -10801,7 +10801,7 @@ Name: Душеловка;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -10875,7 +10875,7 @@ Name: Призвать мефита;
 Cost: 4
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 250
 DurationMod: 0
@@ -10912,7 +10912,7 @@ Name: Самопожертвование;
 Cost: 40
 LifeCost: 40
 StamCost: 3
-ItemLevel: 4
+ItemLevel: 8
 Level: 2
 PowerMod: 500
 DurationMod: 0
@@ -11047,7 +11047,7 @@ Name: Волшебный кристалл;
 Cost: 15
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 100
 DurationMod: 0
@@ -11084,7 +11084,7 @@ Name: Проказа;
 Cost: 6
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 5
 PowerMod: 0
 DurationMod: 100
@@ -11264,7 +11264,7 @@ Name: Призвать крысу;
 Cost: 5
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 1
 PowerMod: 250
 DurationMod: 0
@@ -11432,7 +11432,7 @@ Name: Проклятие;
 Cost: 2
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 50
 DurationMod: 0
@@ -11473,7 +11473,7 @@ Name: Рывок;
 Cost: 5
 LifeCost: 0
 StamCost: 2
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: -50
 DurationMod: 0
@@ -11514,7 +11514,7 @@ Name: Шок;
 Cost: 3
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 35
 DurationMod: 0
@@ -11547,7 +11547,7 @@ Name: Слепая вера;
 Cost: 8
 LifeCost: 0
 StamCost: 1
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 1
@@ -12053,7 +12053,7 @@ Name: Вечный свет;
 Cost: 9
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -12110,7 +12110,7 @@ Name: Ярость небес;
 Cost: 16
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 50
 DurationMod: 0
@@ -13689,7 +13689,7 @@ Name: Штормовой ветер;
 Cost: 12
 LifeCost: 0
 StamCost: 2
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 50
@@ -13796,7 +13796,7 @@ Name: Вызов пересмешника;
 Cost: 8
 LifeCost: 10
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -13899,7 +13899,7 @@ Name: Плеть Хаоса;
 Cost: 3
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 0
@@ -13936,7 +13936,7 @@ Name: Наследие Хаоса;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 1
+ItemLevel: 8
 Level: 1
 PowerMod: 0
 DurationMod: 100
@@ -13985,7 +13985,7 @@ Name: Первобытный гнев;
 Cost: 4
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 2
 PowerMod: 0
 DurationMod: 100
@@ -14022,7 +14022,7 @@ Name: Искушение Хаоса;
 Cost: 4
 LifeCost: 4
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 50
 DurationMod: 0
@@ -14059,7 +14059,7 @@ Name: Знамя Хаоса;
 Cost: 12
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 50
@@ -14532,7 +14532,7 @@ Name: Усиление чар;
 Cost: 5
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 25
 DurationMod: 0
@@ -14569,7 +14569,7 @@ Name: Общее усиление чар;
 Cost: 20
 LifeCost: 0
 StamCost: 3
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 50
 DurationMod: 0
@@ -14606,7 +14606,7 @@ Name: Врата Смерти;
 Cost: 45
 LifeCost: 0
 StamCost: 7
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 75
 DurationMod: 0
@@ -14643,7 +14643,7 @@ Name: Волшебная роща;
 Cost: 40
 LifeCost: 0
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 100
 DurationMod: 0
@@ -14684,7 +14684,7 @@ Name: Призвать стаю крыс;
 Cost: 25
 LifeCost: 0
 StamCost: 5
-ItemLevel: 4
+ItemLevel: 8
 Level: 3
 PowerMod: 100
 DurationMod: 0
@@ -14721,7 +14721,7 @@ Name: Призвать орла;
 Cost: 10
 LifeCost: 0
 StamCost: 2
-ItemLevel: 3
+ItemLevel: 8
 Level: 2
 PowerMod: 200
 DurationMod: 0
@@ -14897,7 +14897,7 @@ Name: Обратить в медведя;
 Cost: 18
 LifeCost: 0
 StamCost: 4
-ItemLevel: 3
+ItemLevel: 8
 Level: 3
 PowerMod: 0
 DurationMod: 200
@@ -15033,7 +15033,7 @@ Name: Призвать квазита;
 Cost: 8
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 100
 DurationMod: 0
@@ -15066,7 +15066,7 @@ Name: Призвать ифрита;
 Cost: 7
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 200
 DurationMod: 0
@@ -15099,7 +15099,7 @@ Name: Призвать наяду;
 Cost: 6
 LifeCost: 0
 StamCost: 1
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 150
 DurationMod: 0
@@ -15132,7 +15132,7 @@ Name: Призвать волка;
 Cost: 4
 LifeCost: 0
 StamCost: 2
-ItemLevel: 2
+ItemLevel: 8
 Level: 1
 PowerMod: 150
 DurationMod: 0
@@ -15198,7 +15198,7 @@ Name: Смертельный яд;
 Cost: 44
 LifeCost: 0
 StamCost: 5
-ItemLevel: 5
+ItemLevel: 8
 Level: 4
 PowerMod: 35
 DurationMod: 0
