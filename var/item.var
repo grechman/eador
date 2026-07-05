@@ -16572,7 +16572,7 @@ Power: 189
 Area: 0;
 
 /658
-Name: Свиток оракула стихий;
+Name: Оракул стихий;
 Slot: 0
 Class: 0
 Durability: 1
@@ -16590,7 +16590,7 @@ Power: 201
 Area: 0;
 
 /659
-Name: Свиток умертвия;
+Name: Умертвие;
 Slot: 0
 Class: 0
 Durability: 1
@@ -16626,7 +16626,7 @@ Power: 291
 Area: 0;
 
 /661
-Name: Свиток Прародителя;
+Name: Прародитель;
 Slot: 0
 Class: 0
 Durability: 1
@@ -16644,7 +16644,7 @@ Power: 290
 Area: 0;
 
 /662
-Name: Свиток Великого Крысса;
+Name: Великий Крысс;
 Slot: 0
 Class: 0
 Durability: 1
