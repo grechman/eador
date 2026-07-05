@@ -1,4 +1,4 @@
-Quantity: 501
+Quantity: 500
 
 /0 Пусто
 Quantity: 5/1
@@ -7162,12 +7162,3 @@ Power: 1
 Item1: 660, 1
 Item2: 661, 1
 Item3: 662, 1;
-
-/501 Тайник заклинаний
-Quantity: 2/1
-Initiative: 0/0
-Unit1: 1, 2, 2, 2;
-LootPoss: 10
-MaxLoot: 1
-Power: 1
-Item1: 1, 1;

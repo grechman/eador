@@ -1,4 +1,4 @@
-Quantity: 170
+Quantity: 169
 
 /0
 Name: Пусто;
@@ -1529,12 +1529,3 @@ Guard0: 500
 Guard1: 500
 Guard2: 500
 Guard3: 500
-
-/170
-Name: Тайник заклинаний;
-Power: 1
-Karma: 0
-Guard0: 501
-Guard1: 501
-Guard2: 501
-Guard3: 501

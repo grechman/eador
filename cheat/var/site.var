@@ -1,4 +1,4 @@
-Quantity: 147
+Quantity: 144
 
 /0
 Name: Пусто;
@@ -509,43 +509,7 @@ Desert: 65
 Tundra: 65
 
 Guards:
-Guard: 5
-Poss: 15
-
-Guard: 57
-Poss: 6
-
-Guard: 11
-Poss: 6
-
-Guard: 58
-Poss: 6
-
-Guard: 25
-Poss: 8
-
-Guard: 125
-Poss: 6
-
-Guard: 27
-Poss: 6
-
-Guard: 60
-Poss: 6
-
-Guard: 43
-Poss: 6
-
-Guard: 134
-Poss: 2
-
-Guard: 77
-Poss: 8
-
-Guard: 81
-Poss: 4
-
-Guard: 79
+Guard: 168
 Poss: 1;
 
 Ability:
@@ -584,49 +548,7 @@ Desert: 90
 Tundra: 90
 
 Guards:
-Guard: 5
-Poss: 4
-
-Guard: 4
-Poss: 4
-
-Guard: 11
-Poss: 4
-
-Guard: 18
-Poss: 3
-
-Guard: 123
-Poss: 1
-
-Guard: 124
-Poss: 1
-
-Guard: 27
-Poss: 4
-
-Guard: 84
-Poss: 4
-
-Guard: 150
-Poss: 3
-
-Guard: 129
-Poss: 2
-
-Guard: 57
-Poss: 2
-
-Guard: 43
-Poss: 4
-
-Guard: 51
-Poss: 2
-
-Guard: 95
-Poss: 2
-
-Guard: 101
+Guard: 169
 Poss: 1;
 
 Ability:
@@ -7086,108 +7008,3 @@ Param2: 5
 Ability: 23
 Param1: 30
 Param2: -18;
-
-/145
-Name: Тайник существ;
-MinLevel: 1
-MaxLevel: 12
-Guarded: 100
-Place: 1
-Difficult: 0
-Event: 2
-Dialog: 2452
-Dialog2: 0
-Treasure: 0
-Coastal: 0
-WorkHide: 0
-WorkGuard: 1
-WorkFree: 0
-CanEnter: 0
-SelfDestroy: 1
-
-Terrain:
-Plain: 12
-Forest: 12
-Hill: 12
-Swamp: 12
-Desert: 12
-Tundra: 12
-
-Guards:
-Guard: 168
-Poss: 1;
-
-Ability:
-Ability: 23
-Param1: 20
-Param2: -18;
-
-/146
-Name: Тайник существ;
-MinLevel: 1
-MaxLevel: 12
-Guarded: 100
-Place: 1
-Difficult: 0
-Event: 2
-Dialog: 2453
-Dialog2: 0
-Treasure: 0
-Coastal: 0
-WorkHide: 0
-WorkGuard: 1
-WorkFree: 0
-CanEnter: 0
-SelfDestroy: 1
-
-Terrain:
-Plain: 12
-Forest: 12
-Hill: 12
-Swamp: 12
-Desert: 12
-Tundra: 12
-
-Guards:
-Guard: 169
-Poss: 1;
-
-Ability:
-Ability: 23
-Param1: 20
-Param2: -18;
-
-/147
-Name: Тайник заклинаний;
-MinLevel: 1
-MaxLevel: 12
-Guarded: 100
-Place: 1
-Difficult: 0
-Event: 2
-Dialog: 2454
-Dialog2: 0
-Treasure: 0
-Coastal: 0
-WorkHide: 0
-WorkGuard: 1
-WorkFree: 0
-CanEnter: 0
-SelfDestroy: 1
-
-Terrain:
-Plain: 12
-Forest: 12
-Hill: 12
-Swamp: 12
-Desert: 12
-Tundra: 12
-
-Guards:
-Guard: 170
-Poss: 1;
-
-Ability:
-Ability: 3
-Param1: 1
-Param2: 5;
