@@ -31,8 +31,6 @@
 !/dat/Items.dat
 !/dat/Site.dat
 !/dat/Illustration.dat
-!/cheat
-!/cheat/**
 
 !/var/ability_num.var
 !/Text/ability.txt
